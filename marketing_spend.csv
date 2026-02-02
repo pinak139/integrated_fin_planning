@@ -1,0 +1,2601 @@
+Date,fiscal_year,fiscal_quarter,season,week_of_year,marketing_channel,spend,has_promo,promo_events
+2021-01-03,2021,Q1,Spring/Summer,53,TV,112529.26,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Paid Search,97999.14,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Paid Social,26933.43,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Display,22885.82,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Email,24651.67,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Direct Mail,20258.81,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Catalog,29229.23,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Outdoor Media,25875.64,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Radio,22153.26,True,Winter Clearance
+2021-01-03,2021,Q1,Spring/Summer,53,Influencer,29147.66,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,TV,111223.29,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Paid Search,101272.97,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Paid Social,22724.77,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Display,27746.03,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Email,21805.07,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Direct Mail,29783.19,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Catalog,26045.81,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Outdoor Media,26920.22,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Radio,26191.58,True,Winter Clearance
+2021-01-10,2021,Q1,Spring/Summer,1,Influencer,21080.93,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,TV,119690.2,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Paid Search,85895.98,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Paid Social,20599.98,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Display,20789.33,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Email,28614.86,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Direct Mail,23208.27,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Catalog,27774.62,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Outdoor Media,24272.67,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Radio,20330.88,True,Winter Clearance
+2021-01-17,2021,Q1,Spring/Summer,2,Influencer,28114.55,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,TV,119315.54,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Paid Search,110585.36,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Paid Social,27943.58,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Display,20150.22,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Email,26612.58,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Direct Mail,22001.5,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Catalog,21318.39,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Outdoor Media,28358.55,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Radio,29465.21,True,Winter Clearance
+2021-01-24,2021,Q1,Spring/Summer,3,Influencer,27446.91,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,TV,108475.3,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Paid Search,114585.11,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Paid Social,22034.62,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Display,27661.83,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Email,24028.56,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Direct Mail,23901.43,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Catalog,20627.13,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Outdoor Media,23649.74,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Radio,29022.79,True,Winter Clearance
+2021-01-31,2021,Q1,Spring/Summer,4,Influencer,25444.78,True,Winter Clearance
+2021-02-07,2021,Q1,Spring/Summer,5,TV,57198.39,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Paid Search,53467.91,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Paid Social,11090.8,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Display,12384.78,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Email,11703.41,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Direct Mail,11761.52,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Catalog,10756.71,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Outdoor Media,10921.29,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Radio,13154.82,False,
+2021-02-07,2021,Q1,Spring/Summer,5,Influencer,14359.5,False,
+2021-02-14,2021,Q1,Spring/Summer,6,TV,46253.73,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Paid Search,47477.39,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Paid Social,11009.72,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Display,14523.12,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Email,14307.33,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Direct Mail,12755.29,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Catalog,11719.95,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Outdoor Media,11698.55,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Radio,11841.66,False,
+2021-02-14,2021,Q1,Spring/Summer,6,Influencer,11853.65,False,
+2021-02-21,2021,Q1,Spring/Summer,7,TV,47414.91,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Paid Search,45000.76,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Paid Social,14475.63,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Display,11574.28,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Email,12963.32,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Direct Mail,14579.9,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Catalog,12520.42,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Outdoor Media,11627.43,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Radio,14878.7,False,
+2021-02-21,2021,Q1,Spring/Summer,7,Influencer,10825.04,False,
+2021-02-28,2021,Q1,Spring/Summer,8,TV,59692.92,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Paid Search,43584.56,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Paid Social,10162.67,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Display,12617.44,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Email,11744.77,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Direct Mail,12456.71,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Catalog,13077.43,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Outdoor Media,11312.92,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Radio,10542.79,False,
+2021-02-28,2021,Q1,Spring/Summer,8,Influencer,13898.7,False,
+2021-03-07,2021,Q1,Spring/Summer,9,TV,47553.88,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Paid Search,59144.87,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Paid Social,14950.13,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Display,14834.05,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Email,12148.48,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Direct Mail,11085.94,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Catalog,10537.69,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Outdoor Media,11272.82,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Radio,12665.68,False,
+2021-03-07,2021,Q1,Spring/Summer,9,Influencer,13295.46,False,
+2021-03-14,2021,Q1,Spring/Summer,10,TV,44417.48,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Paid Search,43453.2,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Paid Social,13341.13,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Display,14130.62,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Email,14205.18,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Direct Mail,12951.81,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Catalog,14950.55,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Outdoor Media,11665.81,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Radio,12783.95,False,
+2021-03-14,2021,Q1,Spring/Summer,10,Influencer,13449.39,False,
+2021-03-21,2021,Q1,Spring/Summer,11,TV,53191.53,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Paid Search,44552.81,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Paid Social,10645.92,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Display,12585.5,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Email,11554.66,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Direct Mail,14880.7,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Catalog,14255.99,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Outdoor Media,12099.59,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Radio,12002.49,False,
+2021-03-21,2021,Q1,Spring/Summer,11,Influencer,11896.09,False,
+2021-03-28,2021,Q1,Spring/Summer,12,TV,50146.04,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Paid Search,52900.72,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Paid Social,12797.22,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Display,11811.69,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Email,10057.62,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Direct Mail,12976.83,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Catalog,12942.33,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Outdoor Media,14770.97,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Radio,10352.42,False,
+2021-03-28,2021,Q1,Spring/Summer,12,Influencer,11976.28,False,
+2021-04-04,2021,Q2,Spring/Summer,13,TV,59623.46,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Paid Search,43781.58,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Paid Social,10443.22,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Display,14433.44,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Email,13245.39,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Direct Mail,11790.09,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Catalog,14616.42,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Outdoor Media,10081.13,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Radio,11201.38,False,
+2021-04-04,2021,Q2,Spring/Summer,13,Influencer,13079.42,False,
+2021-04-11,2021,Q2,Spring/Summer,14,TV,52816.4,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Paid Search,58718.16,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Paid Social,10009.74,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Display,13929.84,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Email,13904.94,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Direct Mail,14828.35,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Catalog,14524.43,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Outdoor Media,11031.83,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Radio,14776.86,False,
+2021-04-11,2021,Q2,Spring/Summer,14,Influencer,10431.54,False,
+2021-04-18,2021,Q2,Spring/Summer,15,TV,58740.45,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Paid Search,54295.43,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Paid Social,14633.45,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Display,14119.36,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Email,13075.77,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Direct Mail,14003.31,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Catalog,11456.22,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Outdoor Media,10114.71,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Radio,14976.68,False,
+2021-04-18,2021,Q2,Spring/Summer,15,Influencer,13208.26,False,
+2021-04-25,2021,Q2,Spring/Summer,16,TV,49010.01,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Paid Search,51277.75,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Paid Social,11198.88,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Display,11616.13,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Email,12230.61,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Direct Mail,14597.45,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Catalog,13727.75,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Outdoor Media,14411.11,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Radio,10537.98,False,
+2021-04-25,2021,Q2,Spring/Summer,16,Influencer,12575.94,False,
+2021-05-02,2021,Q2,Spring/Summer,17,TV,42645.74,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Paid Search,43792.51,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Paid Social,12667.17,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Display,10639.06,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Email,13200.24,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Direct Mail,11539.72,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Catalog,11959.85,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Outdoor Media,11160.99,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Radio,13358.15,False,
+2021-05-02,2021,Q2,Spring/Summer,17,Influencer,12002.78,False,
+2021-05-09,2021,Q2,Spring/Summer,18,TV,54394.88,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Paid Search,46870.53,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Paid Social,13598.55,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Display,12574.87,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Email,12754.61,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Direct Mail,12088.1,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Catalog,14873.77,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Outdoor Media,13163.55,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Radio,10279.05,False,
+2021-05-09,2021,Q2,Spring/Summer,18,Influencer,10366.08,False,
+2021-05-16,2021,Q2,Spring/Summer,19,TV,96285.71,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Paid Search,110155.8,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Paid Social,25400.31,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Display,22846.62,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Email,21554.52,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Direct Mail,24369.65,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Catalog,25626.84,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Outdoor Media,26511.42,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Radio,20680.86,True,Anniversary Sale
+2021-05-16,2021,Q2,Spring/Summer,19,Influencer,28643.42,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,TV,107757.23,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Paid Search,83432.31,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Paid Social,29780.16,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Display,24688.41,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Email,23654.7,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Direct Mail,23084.29,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Catalog,27022.67,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Outdoor Media,22421.21,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Radio,23350.76,True,Anniversary Sale
+2021-05-23,2021,Q2,Spring/Summer,20,Influencer,28990.68,True,Anniversary Sale
+2021-05-30,2021,Q2,Spring/Summer,21,TV,100733.18,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Paid Search,83561.35,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Paid Social,29993.07,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Display,20410.61,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Email,22521.14,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Direct Mail,26127.38,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Catalog,29368.37,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Outdoor Media,25255.61,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Radio,22755.13,True,Memorial Day Sale
+2021-05-30,2021,Q2,Spring/Summer,21,Influencer,20218.29,True,Memorial Day Sale
+2021-06-06,2021,Q2,Spring/Summer,22,TV,49446.6,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Paid Search,51682.87,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Paid Social,14711.6,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Display,12877.73,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Email,12915.18,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Direct Mail,10422.67,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Catalog,13664.08,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Outdoor Media,14818.56,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Radio,11200.4,False,
+2021-06-06,2021,Q2,Spring/Summer,22,Influencer,13217.21,False,
+2021-06-13,2021,Q2,Spring/Summer,23,TV,58186.67,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Paid Search,52581.97,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Paid Social,11020.26,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Display,12728.86,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Email,13478.65,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Direct Mail,13817.92,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Catalog,10298.51,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Outdoor Media,14845.36,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Radio,12130.02,False,
+2021-06-13,2021,Q2,Spring/Summer,23,Influencer,14617.24,False,
+2021-06-20,2021,Q2,Spring/Summer,24,TV,44786.68,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Paid Search,50344.9,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Paid Social,11680.16,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Display,13185.59,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Email,11662.52,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Direct Mail,13680.19,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Catalog,13839.48,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Outdoor Media,11403.3,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Radio,13729.32,False,
+2021-06-20,2021,Q2,Spring/Summer,24,Influencer,10839.54,False,
+2021-06-27,2021,Q2,Spring/Summer,25,TV,54529.43,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Paid Search,50082.96,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Paid Social,14279.73,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Display,11139.82,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Email,11655.86,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Direct Mail,14147.04,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Catalog,14349.91,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Outdoor Media,14964.75,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Radio,10102.22,False,
+2021-06-27,2021,Q2,Spring/Summer,25,Influencer,11246.73,False,
+2021-07-04,2021,Q3,Fall/Winter,26,TV,85698.61,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Paid Search,108526.22,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Paid Social,22710.55,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Display,25928.16,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Email,29001.7,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Direct Mail,22009.11,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Catalog,26403.31,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Outdoor Media,26947.2,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Radio,21230.85,True,Independence Day Sale
+2021-07-04,2021,Q3,Fall/Winter,26,Influencer,22628.86,True,Independence Day Sale
+2021-07-11,2021,Q3,Fall/Winter,27,TV,59574.35,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Paid Search,52894.26,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Paid Social,12522.26,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Display,13450.56,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Email,12362.61,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Direct Mail,10225.82,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Catalog,13590.44,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Outdoor Media,14797.35,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Radio,14506.72,False,
+2021-07-11,2021,Q3,Fall/Winter,27,Influencer,11081.0,False,
+2021-07-18,2021,Q3,Fall/Winter,28,TV,51504.09,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Paid Search,56305.11,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Paid Social,10560.6,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Display,11785.76,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Email,11751.58,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Direct Mail,10845.37,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Catalog,14209.33,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Outdoor Media,12418.91,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Radio,13633.62,False,
+2021-07-18,2021,Q3,Fall/Winter,28,Influencer,10886.49,False,
+2021-07-25,2021,Q3,Fall/Winter,29,TV,54249.91,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Paid Search,59867.64,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Paid Social,12443.59,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Display,12867.7,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Email,13951.33,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Direct Mail,10283.35,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Catalog,10831.84,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Outdoor Media,14111.16,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Radio,13072.93,False,
+2021-07-25,2021,Q3,Fall/Winter,29,Influencer,10314.48,False,
+2021-08-01,2021,Q3,Fall/Winter,30,TV,56222.78,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Paid Search,41772.79,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Paid Social,13646.2,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Display,11218.06,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Email,11786.78,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Direct Mail,12301.02,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Catalog,11327.07,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Outdoor Media,13047.57,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Radio,14472.31,False,
+2021-08-01,2021,Q3,Fall/Winter,30,Influencer,14822.45,False,
+2021-08-08,2021,Q3,Fall/Winter,31,TV,48181.18,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Paid Search,46163.22,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Paid Social,12625.36,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Display,12419.6,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Email,13378.08,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Direct Mail,13250.43,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Catalog,12722.55,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Outdoor Media,11575.33,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Radio,12808.3,False,
+2021-08-08,2021,Q3,Fall/Winter,31,Influencer,14882.12,False,
+2021-08-15,2021,Q3,Fall/Winter,32,TV,54200.5,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Paid Search,56937.44,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Paid Social,10711.74,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Display,12523.65,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Email,12967.33,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Direct Mail,12062.62,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Catalog,11097.39,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Outdoor Media,13984.43,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Radio,13222.98,False,
+2021-08-15,2021,Q3,Fall/Winter,32,Influencer,12159.15,False,
+2021-08-22,2021,Q3,Fall/Winter,33,TV,47177.75,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Paid Search,56709.35,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Paid Social,14870.3,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Display,14845.52,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Email,13729.54,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Direct Mail,14602.44,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Catalog,10123.94,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Outdoor Media,12753.51,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Radio,10651.79,False,
+2021-08-22,2021,Q3,Fall/Winter,33,Influencer,11478.34,False,
+2021-08-29,2021,Q3,Fall/Winter,34,TV,46751.99,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Paid Search,52785.47,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Paid Social,14127.39,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Display,13032.34,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Email,14431.7,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Direct Mail,11311.09,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Catalog,14169.85,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Outdoor Media,14797.34,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Radio,10903.04,False,
+2021-08-29,2021,Q3,Fall/Winter,34,Influencer,12407.31,False,
+2021-09-05,2021,Q3,Fall/Winter,35,TV,107886.91,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Paid Search,114295.46,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Paid Social,23332.19,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Display,20588.98,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Email,23114.03,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Direct Mail,24902.94,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Catalog,26190.26,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Outdoor Media,20561.52,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Radio,24768.6,True,Labor Day Sale
+2021-09-05,2021,Q3,Fall/Winter,35,Influencer,24502.95,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,TV,96742.53,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Paid Search,88307.34,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Paid Social,25409.36,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Display,21591.07,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Email,24043.87,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Direct Mail,20516.34,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Catalog,22847.79,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Outdoor Media,26383.14,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Radio,29051.42,True,Labor Day Sale
+2021-09-12,2021,Q3,Fall/Winter,36,Influencer,22741.76,True,Labor Day Sale
+2021-09-19,2021,Q3,Fall/Winter,37,TV,46861.26,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Paid Search,53070.19,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Paid Social,10835.01,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Display,12152.17,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Email,13269.39,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Direct Mail,13822.38,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Catalog,12782.4,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Outdoor Media,14128.74,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Radio,10769.02,False,
+2021-09-19,2021,Q3,Fall/Winter,37,Influencer,14226.77,False,
+2021-09-26,2021,Q3,Fall/Winter,38,TV,42810.5,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Paid Search,54782.89,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Paid Social,13557.15,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Display,12433.05,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Email,14078.78,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Direct Mail,12647.5,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Catalog,10397.43,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Outdoor Media,12647.59,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Radio,13957.51,False,
+2021-09-26,2021,Q3,Fall/Winter,38,Influencer,13239.86,False,
+2021-10-03,2021,Q4,Fall/Winter,39,TV,49960.38,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Paid Search,50172.86,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Paid Social,11667.69,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Display,14003.8,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Email,10785.02,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Direct Mail,10895.42,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Catalog,11685.46,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Outdoor Media,11415.85,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Radio,13799.58,False,
+2021-10-03,2021,Q4,Fall/Winter,39,Influencer,12628.07,False,
+2021-10-10,2021,Q4,Fall/Winter,40,TV,59365.52,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Paid Search,57053.59,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Paid Social,14761.62,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Display,10055.84,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Email,14412.82,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Direct Mail,12194.17,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Catalog,14685.54,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Outdoor Media,14386.19,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Radio,12008.3,False,
+2021-10-10,2021,Q4,Fall/Winter,40,Influencer,12750.99,False,
+2021-10-17,2021,Q4,Fall/Winter,41,TV,56048.05,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Paid Search,51405.23,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Paid Social,11919.93,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Display,11722.46,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Email,14200.58,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Direct Mail,11309.79,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Catalog,13394.93,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Outdoor Media,10541.62,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Radio,14717.44,False,
+2021-10-17,2021,Q4,Fall/Winter,41,Influencer,14499.17,False,
+2021-10-24,2021,Q4,Fall/Winter,42,TV,58787.34,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Paid Search,57688.56,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Paid Social,14309.55,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Display,10765.16,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Email,13552.04,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Direct Mail,13277.02,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Catalog,13653.81,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Outdoor Media,14996.42,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Radio,12778.65,False,
+2021-10-24,2021,Q4,Fall/Winter,42,Influencer,14292.97,False,
+2021-10-31,2021,Q4,Fall/Winter,43,TV,56771.9,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Paid Search,52731.69,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Paid Social,14731.07,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Display,12603.99,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Email,13426.44,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Direct Mail,14636.51,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Catalog,10086.33,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Outdoor Media,14600.75,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Radio,12608.48,False,
+2021-10-31,2021,Q4,Fall/Winter,43,Influencer,13334.04,False,
+2021-11-07,2021,Q4,Fall/Winter,44,TV,43485.75,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Paid Search,42755.35,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Paid Social,14887.81,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Display,12711.87,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Email,13547.57,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Direct Mail,13921.2,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Catalog,13966.39,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Outdoor Media,14162.65,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Radio,13397.82,False,
+2021-11-07,2021,Q4,Fall/Winter,44,Influencer,10288.04,False,
+2021-11-14,2021,Q4,Fall/Winter,45,TV,59402.85,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Paid Search,49562.01,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Paid Social,13112.05,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Display,11635.65,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Email,14104.24,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Direct Mail,10785.33,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Catalog,14308.88,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Outdoor Media,11446.75,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Radio,13708.85,False,
+2021-11-14,2021,Q4,Fall/Winter,45,Influencer,13296.4,False,
+2021-11-21,2021,Q4,Fall/Winter,46,TV,86508.17,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Paid Search,81114.61,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Paid Social,24900.85,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Display,24163.85,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Email,20079.95,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Direct Mail,23668.58,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Catalog,28203.04,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Outdoor Media,24412.37,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Radio,27592.49,True,Black Friday
+2021-11-21,2021,Q4,Fall/Winter,46,Influencer,25276.61,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,TV,84688.35,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Paid Search,119522.97,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Paid Social,25761.39,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Display,25139.21,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Email,23468.29,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Direct Mail,28579.42,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Catalog,23134.23,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Outdoor Media,26309.22,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Radio,24338.57,True,Black Friday
+2021-11-28,2021,Q4,Fall/Winter,47,Influencer,23639.75,True,Black Friday
+2021-12-05,2021,Q4,Fall/Winter,48,TV,51326.03,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Paid Search,51970.11,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Paid Social,12986.18,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Display,12370.6,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Email,10438.48,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Direct Mail,12305.05,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Catalog,12586.34,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Outdoor Media,12561.02,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Radio,14993.04,False,
+2021-12-05,2021,Q4,Fall/Winter,48,Influencer,14362.91,False,
+2021-12-12,2021,Q4,Fall/Winter,49,TV,42669.24,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Paid Search,58297.2,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Paid Social,12377.97,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Display,11594.18,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Email,11926.77,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Direct Mail,11468.24,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Catalog,14457.98,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Outdoor Media,12394.57,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Radio,14251.17,False,
+2021-12-12,2021,Q4,Fall/Winter,49,Influencer,10067.66,False,
+2021-12-19,2021,Q4,Fall/Winter,50,TV,45000.01,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Paid Search,46951.63,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Paid Social,12753.92,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Display,13245.48,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Email,10282.29,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Direct Mail,14783.62,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Catalog,13855.78,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Outdoor Media,12746.49,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Radio,10209.3,False,
+2021-12-19,2021,Q4,Fall/Winter,50,Influencer,11200.84,False,
+2021-12-26,2021,Q4,Fall/Winter,51,TV,87481.42,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Paid Search,118897.7,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Paid Social,29787.51,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Display,27333.68,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Email,22765.36,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Direct Mail,22004.59,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Catalog,28935.71,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Outdoor Media,25044.55,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Radio,20554.48,True,Holiday Clearance
+2021-12-26,2021,Q4,Fall/Winter,51,Influencer,26362.44,True,Holiday Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,TV,80983.54,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Paid Search,102371.87,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Paid Social,27445.52,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Display,22761.76,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Email,28812.16,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Direct Mail,23651.72,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Catalog,28250.68,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Outdoor Media,22971.74,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Radio,28653.64,True,Winter Clearance
+2022-01-02,2022,Q1,Spring/Summer,52,Influencer,21977.43,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,TV,81730.13,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Paid Search,92732.19,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Paid Social,23994.48,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Display,29073.27,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Email,20609.67,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Direct Mail,20953.3,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Catalog,26085.06,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Outdoor Media,25426.77,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Radio,29302.8,True,Winter Clearance
+2022-01-09,2022,Q1,Spring/Summer,1,Influencer,28348.04,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,TV,108527.24,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Paid Search,97542.12,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Paid Social,24326.22,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Display,20119.67,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Email,23667.42,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Direct Mail,25977.89,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Catalog,22175.27,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Outdoor Media,25684.58,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Radio,25940.78,True,Winter Clearance
+2022-01-16,2022,Q1,Spring/Summer,2,Influencer,26880.92,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,TV,113920.52,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Paid Search,116293.62,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Paid Social,20532.66,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Display,21051.54,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Email,23394.91,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Direct Mail,21520.96,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Catalog,27060.33,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Outdoor Media,29124.93,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Radio,24928.5,True,Winter Clearance
+2022-01-23,2022,Q1,Spring/Summer,3,Influencer,28263.66,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,TV,90179.15,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Paid Search,87160.31,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Paid Social,24213.34,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Display,23998.61,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Email,24845.64,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Direct Mail,20550.6,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Catalog,26829.21,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Outdoor Media,24182.8,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Radio,21980.71,True,Winter Clearance
+2022-01-30,2022,Q1,Spring/Summer,4,Influencer,26618.31,True,Winter Clearance
+2022-02-06,2022,Q1,Spring/Summer,5,TV,44569.35,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Paid Search,41242.5,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Paid Social,13150.42,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Display,12496.96,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Email,14411.55,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Direct Mail,12019.87,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Catalog,12066.39,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Outdoor Media,12979.39,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Radio,12006.78,False,
+2022-02-06,2022,Q1,Spring/Summer,5,Influencer,10008.2,False,
+2022-02-13,2022,Q1,Spring/Summer,6,TV,41344.03,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Paid Search,46329.18,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Paid Social,14759.35,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Display,12685.87,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Email,12587.93,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Direct Mail,10112.24,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Catalog,12296.58,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Outdoor Media,12009.98,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Radio,12564.24,False,
+2022-02-13,2022,Q1,Spring/Summer,6,Influencer,10751.58,False,
+2022-02-20,2022,Q1,Spring/Summer,7,TV,50357.47,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Paid Search,44933.78,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Paid Social,12529.44,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Display,11210.61,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Email,10840.93,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Direct Mail,10207.28,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Catalog,14463.23,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Outdoor Media,13326.22,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Radio,14608.18,False,
+2022-02-20,2022,Q1,Spring/Summer,7,Influencer,10699.85,False,
+2022-02-27,2022,Q1,Spring/Summer,8,TV,53399.89,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Paid Search,46566.91,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Paid Social,12088.62,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Display,13215.97,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Email,13431.91,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Direct Mail,11221.65,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Catalog,12345.1,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Outdoor Media,10013.63,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Radio,12443.14,False,
+2022-02-27,2022,Q1,Spring/Summer,8,Influencer,14307.68,False,
+2022-03-06,2022,Q1,Spring/Summer,9,TV,55043.14,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Paid Search,42620.05,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Paid Social,12957.02,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Display,11358.11,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Email,10185.22,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Direct Mail,12295.76,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Catalog,10058.66,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Outdoor Media,14127.19,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Radio,14270.91,False,
+2022-03-06,2022,Q1,Spring/Summer,9,Influencer,14588.27,False,
+2022-03-13,2022,Q1,Spring/Summer,10,TV,45885.95,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Paid Search,55883.67,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Paid Social,13978.89,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Display,11857.46,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Email,13028.15,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Direct Mail,11203.77,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Catalog,11250.46,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Outdoor Media,14056.35,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Radio,11354.51,False,
+2022-03-13,2022,Q1,Spring/Summer,10,Influencer,13396.06,False,
+2022-03-20,2022,Q1,Spring/Summer,11,TV,57779.9,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Paid Search,58905.49,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Paid Social,13395.98,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Display,14414.03,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Email,10493.54,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Direct Mail,11977.06,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Catalog,10897.96,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Outdoor Media,12336.74,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Radio,13225.74,False,
+2022-03-20,2022,Q1,Spring/Summer,11,Influencer,10693.87,False,
+2022-03-27,2022,Q1,Spring/Summer,12,TV,47896.26,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Paid Search,43452.14,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Paid Social,10012.29,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Display,12786.3,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Email,12919.17,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Direct Mail,13737.62,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Catalog,14074.29,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Outdoor Media,11829.47,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Radio,10575.03,False,
+2022-03-27,2022,Q1,Spring/Summer,12,Influencer,11873.32,False,
+2022-04-03,2022,Q2,Spring/Summer,13,TV,53744.7,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Paid Search,46993.0,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Paid Social,11948.32,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Display,10391.86,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Email,10285.56,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Direct Mail,12407.75,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Catalog,14243.24,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Outdoor Media,13975.69,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Radio,12794.32,False,
+2022-04-03,2022,Q2,Spring/Summer,13,Influencer,13484.14,False,
+2022-04-10,2022,Q2,Spring/Summer,14,TV,47335.79,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Paid Search,58789.09,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Paid Social,10516.58,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Display,10247.11,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Email,13175.8,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Direct Mail,10939.28,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Catalog,11875.88,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Outdoor Media,12194.76,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Radio,13566.71,False,
+2022-04-10,2022,Q2,Spring/Summer,14,Influencer,10249.03,False,
+2022-04-17,2022,Q2,Spring/Summer,15,TV,48534.13,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Paid Search,47102.18,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Paid Social,11538.56,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Display,14284.22,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Email,12531.14,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Direct Mail,12713.25,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Catalog,12716.02,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Outdoor Media,12713.98,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Radio,11068.84,False,
+2022-04-17,2022,Q2,Spring/Summer,15,Influencer,13158.03,False,
+2022-04-24,2022,Q2,Spring/Summer,16,TV,57658.07,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Paid Search,40899.21,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Paid Social,12849.98,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Display,14609.25,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Email,11811.13,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Direct Mail,11428.02,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Catalog,11079.79,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Outdoor Media,14243.91,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Radio,10492.36,False,
+2022-04-24,2022,Q2,Spring/Summer,16,Influencer,14805.35,False,
+2022-05-01,2022,Q2,Spring/Summer,17,TV,45209.56,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Paid Search,57873.63,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Paid Social,10547.75,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Display,13052.27,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Email,10451.56,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Direct Mail,14458.47,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Catalog,13718.68,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Outdoor Media,12398.59,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Radio,13529.85,False,
+2022-05-01,2022,Q2,Spring/Summer,17,Influencer,12750.15,False,
+2022-05-08,2022,Q2,Spring/Summer,18,TV,58187.58,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Paid Search,52372.17,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Paid Social,11747.46,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Display,13836.03,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Email,10516.3,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Direct Mail,10524.18,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Catalog,12230.45,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Outdoor Media,14913.3,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Radio,14410.87,False,
+2022-05-08,2022,Q2,Spring/Summer,18,Influencer,13276.13,False,
+2022-05-15,2022,Q2,Spring/Summer,19,TV,104097.65,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Paid Search,83356.3,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Paid Social,23928.09,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Display,26536.5,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Email,20098.78,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Direct Mail,26009.86,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Catalog,23765.33,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Outdoor Media,21866.89,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Radio,22597.47,True,Anniversary Sale
+2022-05-15,2022,Q2,Spring/Summer,19,Influencer,28662.99,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,TV,111182.99,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Paid Search,86159.34,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Paid Social,24409.56,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Display,23931.48,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Email,26865.81,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Direct Mail,24683.0,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Catalog,23492.92,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Outdoor Media,20152.41,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Radio,27460.53,True,Anniversary Sale
+2022-05-22,2022,Q2,Spring/Summer,20,Influencer,27229.44,True,Anniversary Sale
+2022-05-29,2022,Q2,Spring/Summer,21,TV,97678.29,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Paid Search,108537.65,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Paid Social,27660.46,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Display,29342.28,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Email,25740.86,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Direct Mail,20944.33,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Catalog,29590.16,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Outdoor Media,24888.81,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Radio,20586.62,True,Memorial Day Sale
+2022-05-29,2022,Q2,Spring/Summer,21,Influencer,22300.35,True,Memorial Day Sale
+2022-06-05,2022,Q2,Spring/Summer,22,TV,45852.99,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Paid Search,53147.51,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Paid Social,13046.07,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Display,10962.98,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Email,14506.05,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Direct Mail,10905.52,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Catalog,10034.55,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Outdoor Media,12877.18,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Radio,14048.87,False,
+2022-06-05,2022,Q2,Spring/Summer,22,Influencer,10676.33,False,
+2022-06-12,2022,Q2,Spring/Summer,23,TV,48848.7,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Paid Search,55230.73,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Paid Social,11530.81,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Display,13371.16,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Email,13785.67,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Direct Mail,13198.23,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Catalog,10044.41,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Outdoor Media,11485.29,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Radio,11035.04,False,
+2022-06-12,2022,Q2,Spring/Summer,23,Influencer,13888.67,False,
+2022-06-19,2022,Q2,Spring/Summer,24,TV,51393.07,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Paid Search,56143.13,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Paid Social,13871.22,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Display,10179.68,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Email,13569.44,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Direct Mail,10796.61,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Catalog,11729.05,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Outdoor Media,10046.02,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Radio,13736.11,False,
+2022-06-19,2022,Q2,Spring/Summer,24,Influencer,12042.75,False,
+2022-06-26,2022,Q2,Spring/Summer,25,TV,51198.19,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Paid Search,48171.02,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Paid Social,13647.65,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Display,11351.81,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Email,10675.68,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Direct Mail,11703.06,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Catalog,13287.36,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Outdoor Media,13339.66,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Radio,13039.64,False,
+2022-06-26,2022,Q2,Spring/Summer,25,Influencer,14227.18,False,
+2022-07-03,2022,Q3,Fall/Winter,26,TV,112712.29,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Paid Search,93202.44,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Paid Social,23741.12,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Display,25923.66,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Email,29411.2,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Direct Mail,26615.94,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Catalog,26508.96,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Outdoor Media,22427.36,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Radio,29253.3,True,Independence Day Sale
+2022-07-03,2022,Q3,Fall/Winter,26,Influencer,20839.39,True,Independence Day Sale
+2022-07-10,2022,Q3,Fall/Winter,27,TV,49280.09,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Paid Search,48330.28,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Paid Social,11587.19,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Display,12996.52,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Email,11413.59,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Direct Mail,10572.44,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Catalog,14325.11,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Outdoor Media,12149.05,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Radio,13367.58,False,
+2022-07-10,2022,Q3,Fall/Winter,27,Influencer,12003.98,False,
+2022-07-17,2022,Q3,Fall/Winter,28,TV,48666.05,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Paid Search,54673.96,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Paid Social,14176.56,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Display,11604.03,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Email,10218.11,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Direct Mail,14148.49,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Catalog,10320.5,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Outdoor Media,12377.99,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Radio,13386.33,False,
+2022-07-17,2022,Q3,Fall/Winter,28,Influencer,14956.78,False,
+2022-07-24,2022,Q3,Fall/Winter,29,TV,53819.78,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Paid Search,57496.72,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Paid Social,14123.16,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Display,11556.57,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Email,11644.11,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Direct Mail,12083.89,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Catalog,11601.17,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Outdoor Media,14371.79,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Radio,14950.14,False,
+2022-07-24,2022,Q3,Fall/Winter,29,Influencer,10071.58,False,
+2022-07-31,2022,Q3,Fall/Winter,30,TV,44196.76,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Paid Search,42849.32,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Paid Social,13770.55,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Display,10604.15,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Email,12315.71,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Direct Mail,14038.55,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Catalog,12054.5,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Outdoor Media,13069.57,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Radio,11449.64,False,
+2022-07-31,2022,Q3,Fall/Winter,30,Influencer,13722.07,False,
+2022-08-07,2022,Q3,Fall/Winter,31,TV,47577.91,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Paid Search,56592.49,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Paid Social,12106.15,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Display,13491.93,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Email,13394.49,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Direct Mail,10609.02,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Catalog,10643.82,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Outdoor Media,13557.89,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Radio,12987.58,False,
+2022-08-07,2022,Q3,Fall/Winter,31,Influencer,13786.24,False,
+2022-08-14,2022,Q3,Fall/Winter,32,TV,56989.44,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Paid Search,45490.79,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Paid Social,12607.5,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Display,10092.61,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Email,14493.16,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Direct Mail,13073.69,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Catalog,11430.7,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Outdoor Media,10347.84,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Radio,13697.41,False,
+2022-08-14,2022,Q3,Fall/Winter,32,Influencer,14014.32,False,
+2022-08-21,2022,Q3,Fall/Winter,33,TV,50614.13,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Paid Search,50943.9,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Paid Social,10597.95,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Display,14619.81,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Email,12443.5,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Direct Mail,10317.55,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Catalog,11460.49,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Outdoor Media,11729.92,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Radio,10941.73,False,
+2022-08-21,2022,Q3,Fall/Winter,33,Influencer,14372.29,False,
+2022-08-28,2022,Q3,Fall/Winter,34,TV,56190.36,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Paid Search,55807.86,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Paid Social,14030.38,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Display,12587.49,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Email,14763.41,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Direct Mail,14262.14,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Catalog,13298.69,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Outdoor Media,11840.98,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Radio,11660.48,False,
+2022-08-28,2022,Q3,Fall/Winter,34,Influencer,10066.83,False,
+2022-09-04,2022,Q3,Fall/Winter,35,TV,86997.65,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Paid Search,83601.17,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Paid Social,20291.67,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Display,28903.55,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Email,28807.41,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Direct Mail,24750.84,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Catalog,27685.76,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Outdoor Media,25730.33,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Radio,25948.75,True,Labor Day Sale
+2022-09-04,2022,Q3,Fall/Winter,35,Influencer,21967.98,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,TV,117754.54,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Paid Search,111580.58,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Paid Social,22214.58,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Display,28341.71,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Email,20924.35,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Direct Mail,27982.95,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Catalog,20685.06,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Outdoor Media,29363.43,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Radio,28698.6,True,Labor Day Sale
+2022-09-11,2022,Q3,Fall/Winter,36,Influencer,22781.05,True,Labor Day Sale
+2022-09-18,2022,Q3,Fall/Winter,37,TV,50483.12,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Paid Search,49660.02,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Paid Social,10818.36,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Display,10941.92,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Email,10366.39,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Direct Mail,14231.79,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Catalog,14325.2,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Outdoor Media,10896.39,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Radio,14208.7,False,
+2022-09-18,2022,Q3,Fall/Winter,37,Influencer,11277.73,False,
+2022-09-25,2022,Q3,Fall/Winter,38,TV,51897.79,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Paid Search,59086.45,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Paid Social,13809.79,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Display,10855.43,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Email,12386.54,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Direct Mail,12340.36,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Catalog,10472.23,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Outdoor Media,10514.76,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Radio,14619.06,False,
+2022-09-25,2022,Q3,Fall/Winter,38,Influencer,12048.26,False,
+2022-10-02,2022,Q4,Fall/Winter,39,TV,49613.39,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Paid Search,49157.56,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Paid Social,10465.95,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Display,10095.11,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Email,14679.21,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Direct Mail,13551.5,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Catalog,12613.4,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Outdoor Media,13440.24,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Radio,14587.34,False,
+2022-10-02,2022,Q4,Fall/Winter,39,Influencer,12564.19,False,
+2022-10-09,2022,Q4,Fall/Winter,40,TV,59275.0,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Paid Search,56655.54,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Paid Social,13036.59,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Display,13367.01,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Email,13964.92,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Direct Mail,11316.26,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Catalog,10691.46,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Outdoor Media,10380.79,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Radio,14727.96,False,
+2022-10-09,2022,Q4,Fall/Winter,40,Influencer,12551.91,False,
+2022-10-16,2022,Q4,Fall/Winter,41,TV,42027.07,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Paid Search,57174.02,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Paid Social,10055.67,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Display,10024.92,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Email,14120.25,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Direct Mail,13001.47,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Catalog,14383.45,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Outdoor Media,11479.89,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Radio,14660.42,False,
+2022-10-16,2022,Q4,Fall/Winter,41,Influencer,14140.95,False,
+2022-10-23,2022,Q4,Fall/Winter,42,TV,42573.62,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Paid Search,51398.04,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Paid Social,14823.61,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Display,10346.56,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Email,10932.77,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Direct Mail,11132.42,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Catalog,10159.55,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Outdoor Media,10429.67,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Radio,13018.19,False,
+2022-10-23,2022,Q4,Fall/Winter,42,Influencer,14210.25,False,
+2022-10-30,2022,Q4,Fall/Winter,43,TV,47969.4,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Paid Search,46237.33,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Paid Social,12380.62,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Display,10712.39,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Email,12912.7,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Direct Mail,14538.59,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Catalog,11731.79,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Outdoor Media,10685.48,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Radio,11632.57,False,
+2022-10-30,2022,Q4,Fall/Winter,43,Influencer,13987.0,False,
+2022-11-06,2022,Q4,Fall/Winter,44,TV,51987.2,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Paid Search,47458.54,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Paid Social,13284.4,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Display,10418.61,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Email,10126.96,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Direct Mail,10222.86,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Catalog,11078.95,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Outdoor Media,12455.01,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Radio,10985.41,False,
+2022-11-06,2022,Q4,Fall/Winter,44,Influencer,12327.71,False,
+2022-11-13,2022,Q4,Fall/Winter,45,TV,44194.61,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Paid Search,47430.28,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Paid Social,12087.93,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Display,12596.53,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Email,13548.24,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Direct Mail,12568.27,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Catalog,13986.26,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Outdoor Media,12396.44,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Radio,11646.26,False,
+2022-11-13,2022,Q4,Fall/Winter,45,Influencer,12887.03,False,
+2022-11-20,2022,Q4,Fall/Winter,46,TV,82973.59,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Paid Search,106768.08,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Paid Social,20060.24,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Display,28339.81,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Email,21930.26,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Direct Mail,21306.15,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Catalog,21549.18,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Outdoor Media,29508.93,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Radio,27364.19,True,Black Friday
+2022-11-20,2022,Q4,Fall/Winter,46,Influencer,28642.58,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,TV,93701.88,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Paid Search,81765.29,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Paid Social,23595.93,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Display,25833.22,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Email,22948.09,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Direct Mail,27101.57,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Catalog,22360.08,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Outdoor Media,24612.91,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Radio,28535.08,True,Black Friday
+2022-11-27,2022,Q4,Fall/Winter,47,Influencer,21631.75,True,Black Friday
+2022-12-04,2022,Q4,Fall/Winter,48,TV,58026.82,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Paid Search,41848.51,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Paid Social,14511.36,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Display,14038.84,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Email,13487.6,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Direct Mail,10270.87,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Catalog,13130.19,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Outdoor Media,12776.72,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Radio,14186.98,False,
+2022-12-04,2022,Q4,Fall/Winter,48,Influencer,13316.26,False,
+2022-12-11,2022,Q4,Fall/Winter,49,TV,43583.36,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Paid Search,52077.06,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Paid Social,12963.78,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Display,12216.56,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Email,10264.87,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Direct Mail,11686.8,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Catalog,13503.03,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Outdoor Media,14791.92,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Radio,12302.89,False,
+2022-12-11,2022,Q4,Fall/Winter,49,Influencer,14046.68,False,
+2022-12-18,2022,Q4,Fall/Winter,50,TV,54854.18,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Paid Search,54629.49,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Paid Social,12656.84,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Display,14843.25,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Email,10921.61,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Direct Mail,14289.13,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Catalog,12683.88,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Outdoor Media,14589.57,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Radio,11935.62,False,
+2022-12-18,2022,Q4,Fall/Winter,50,Influencer,11624.31,False,
+2022-12-25,2022,Q4,Fall/Winter,51,TV,86045.93,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Paid Search,112183.49,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Paid Social,29212.9,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Display,23312.05,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Email,20208.69,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Direct Mail,29635.39,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Catalog,29494.72,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Outdoor Media,25505.46,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Radio,23376.42,True,Holiday Clearance
+2022-12-25,2022,Q4,Fall/Winter,51,Influencer,22685.94,True,Holiday Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,TV,94975.81,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Paid Search,119712.3,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Paid Social,27766.65,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Display,25340.73,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Email,21336.85,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Direct Mail,26737.96,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Catalog,20902.97,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Outdoor Media,24133.63,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Radio,26977.6,True,Winter Clearance
+2023-01-01,2023,Q1,Spring/Summer,52,Influencer,23629.77,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,TV,96944.29,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Paid Search,116085.03,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Paid Social,28993.95,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Display,27910.12,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Email,24710.33,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Direct Mail,29035.91,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Catalog,21244.37,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Outdoor Media,23272.98,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Radio,23550.21,True,Winter Clearance
+2023-01-08,2023,Q1,Spring/Summer,1,Influencer,29739.75,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,TV,101901.5,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Paid Search,92851.28,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Paid Social,23612.21,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Display,28499.31,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Email,29166.61,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Direct Mail,20420.31,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Catalog,29529.41,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Outdoor Media,26936.11,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Radio,29066.0,True,Winter Clearance
+2023-01-15,2023,Q1,Spring/Summer,2,Influencer,29841.9,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,TV,98646.45,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Paid Search,92558.26,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Paid Social,26924.41,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Display,22759.83,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Email,22655.53,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Direct Mail,25798.41,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Catalog,28426.63,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Outdoor Media,24820.89,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Radio,23453.56,True,Winter Clearance
+2023-01-22,2023,Q1,Spring/Summer,3,Influencer,21053.42,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,TV,113669.91,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Paid Search,80894.36,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Paid Social,27320.02,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Display,27653.76,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Email,20389.1,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Direct Mail,25641.98,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Catalog,28029.39,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Outdoor Media,26885.93,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Radio,28581.68,True,Winter Clearance
+2023-01-29,2023,Q1,Spring/Summer,4,Influencer,28317.7,True,Winter Clearance
+2023-02-05,2023,Q1,Spring/Summer,5,TV,51585.15,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Paid Search,48771.23,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Paid Social,10306.75,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Display,10598.85,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Email,12264.33,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Direct Mail,14362.34,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Catalog,10606.85,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Outdoor Media,10838.13,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Radio,14744.23,False,
+2023-02-05,2023,Q1,Spring/Summer,5,Influencer,14155.13,False,
+2023-02-12,2023,Q1,Spring/Summer,6,TV,52207.67,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Paid Search,41191.05,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Paid Social,13486.78,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Display,12630.37,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Email,13121.22,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Direct Mail,12513.63,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Catalog,13141.28,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Outdoor Media,11042.59,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Radio,10167.12,False,
+2023-02-12,2023,Q1,Spring/Summer,6,Influencer,14410.22,False,
+2023-02-19,2023,Q1,Spring/Summer,7,TV,59218.91,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Paid Search,56993.12,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Paid Social,11193.08,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Display,14017.17,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Email,13710.95,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Direct Mail,12391.41,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Catalog,12318.24,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Outdoor Media,10640.87,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Radio,13336.03,False,
+2023-02-19,2023,Q1,Spring/Summer,7,Influencer,10726.11,False,
+2023-02-26,2023,Q1,Spring/Summer,8,TV,52745.36,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Paid Search,40927.48,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Paid Social,14764.83,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Display,12578.48,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Email,13704.19,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Direct Mail,11800.33,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Catalog,11000.64,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Outdoor Media,12250.73,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Radio,11298.42,False,
+2023-02-26,2023,Q1,Spring/Summer,8,Influencer,13557.53,False,
+2023-03-05,2023,Q1,Spring/Summer,9,TV,44313.28,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Paid Search,43771.56,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Paid Social,13576.87,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Display,10607.31,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Email,10013.9,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Direct Mail,12461.32,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Catalog,10395.26,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Outdoor Media,13308.67,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Radio,13397.49,False,
+2023-03-05,2023,Q1,Spring/Summer,9,Influencer,14468.84,False,
+2023-03-12,2023,Q1,Spring/Summer,10,TV,43302.89,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Paid Search,46602.43,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Paid Social,13066.05,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Display,10890.09,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Email,12462.85,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Direct Mail,10918.86,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Catalog,10470.89,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Outdoor Media,10647.65,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Radio,13077.03,False,
+2023-03-12,2023,Q1,Spring/Summer,10,Influencer,14075.4,False,
+2023-03-19,2023,Q1,Spring/Summer,11,TV,40546.49,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Paid Search,50611.96,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Paid Social,12001.79,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Display,11139.75,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Email,12948.33,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Direct Mail,10802.53,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Catalog,13835.26,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Outdoor Media,13654.69,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Radio,14996.51,False,
+2023-03-19,2023,Q1,Spring/Summer,11,Influencer,13901.01,False,
+2023-03-26,2023,Q1,Spring/Summer,12,TV,51683.93,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Paid Search,48115.92,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Paid Social,13458.48,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Display,13168.73,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Email,10900.18,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Direct Mail,11332.89,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Catalog,10379.51,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Outdoor Media,12581.99,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Radio,14375.53,False,
+2023-03-26,2023,Q1,Spring/Summer,12,Influencer,12758.1,False,
+2023-04-02,2023,Q2,Spring/Summer,13,TV,51241.95,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Paid Search,51738.17,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Paid Social,12191.48,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Display,14465.16,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Email,13293.13,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Direct Mail,12535.56,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Catalog,14437.52,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Outdoor Media,12389.34,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Radio,13108.82,False,
+2023-04-02,2023,Q2,Spring/Summer,13,Influencer,14849.93,False,
+2023-04-09,2023,Q2,Spring/Summer,14,TV,45566.54,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Paid Search,56916.81,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Paid Social,13616.8,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Display,12267.94,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Email,10112.32,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Direct Mail,11247.18,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Catalog,13066.34,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Outdoor Media,14747.1,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Radio,10341.97,False,
+2023-04-09,2023,Q2,Spring/Summer,14,Influencer,12595.65,False,
+2023-04-16,2023,Q2,Spring/Summer,15,TV,44571.85,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Paid Search,50087.69,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Paid Social,11074.97,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Display,10225.92,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Email,11617.21,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Direct Mail,10621.98,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Catalog,11991.43,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Outdoor Media,11960.48,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Radio,10068.1,False,
+2023-04-16,2023,Q2,Spring/Summer,15,Influencer,12765.63,False,
+2023-04-23,2023,Q2,Spring/Summer,16,TV,45831.29,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Paid Search,56415.47,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Paid Social,11760.41,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Display,13942.67,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Email,10123.13,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Direct Mail,12204.45,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Catalog,13718.32,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Outdoor Media,14158.63,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Radio,10142.74,False,
+2023-04-23,2023,Q2,Spring/Summer,16,Influencer,13180.68,False,
+2023-04-30,2023,Q2,Spring/Summer,17,TV,56768.65,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Paid Search,59027.03,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Paid Social,14775.57,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Display,14128.93,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Email,13751.8,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Direct Mail,10515.92,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Catalog,14869.45,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Outdoor Media,11892.26,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Radio,14081.47,False,
+2023-04-30,2023,Q2,Spring/Summer,17,Influencer,12595.9,False,
+2023-05-07,2023,Q2,Spring/Summer,18,TV,57476.52,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Paid Search,57461.85,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Paid Social,10733.99,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Display,10201.7,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Email,14253.32,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Direct Mail,12547.94,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Catalog,10522.2,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Outdoor Media,13836.59,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Radio,12163.12,False,
+2023-05-07,2023,Q2,Spring/Summer,18,Influencer,11124.57,False,
+2023-05-14,2023,Q2,Spring/Summer,19,TV,119297.31,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Paid Search,107436.71,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Paid Social,27687.92,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Display,21257.18,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Email,28060.05,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Direct Mail,29893.74,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Catalog,22492.5,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Outdoor Media,27328.55,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Radio,21206.84,True,Anniversary Sale
+2023-05-14,2023,Q2,Spring/Summer,19,Influencer,21054.84,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,TV,116446.77,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Paid Search,85755.54,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Paid Social,24533.49,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Display,25022.78,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Email,26729.22,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Direct Mail,28413.9,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Catalog,28592.18,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Outdoor Media,20892.77,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Radio,26049.79,True,Anniversary Sale
+2023-05-21,2023,Q2,Spring/Summer,20,Influencer,25002.57,True,Anniversary Sale
+2023-05-28,2023,Q2,Spring/Summer,21,TV,99930.15,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Paid Search,83358.61,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Paid Social,27188.5,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Display,21456.62,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Email,26550.69,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Direct Mail,24054.97,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Catalog,21303.12,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Outdoor Media,27758.62,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Radio,22639.49,True,Memorial Day Sale
+2023-05-28,2023,Q2,Spring/Summer,21,Influencer,24446.52,True,Memorial Day Sale
+2023-06-04,2023,Q2,Spring/Summer,22,TV,50261.74,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Paid Search,51348.89,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Paid Social,11984.57,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Display,12365.36,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Email,12895.43,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Direct Mail,12064.66,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Catalog,11725.18,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Outdoor Media,13119.2,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Radio,11919.75,False,
+2023-06-04,2023,Q2,Spring/Summer,22,Influencer,14260.78,False,
+2023-06-11,2023,Q2,Spring/Summer,23,TV,43315.69,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Paid Search,43285.42,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Paid Social,14697.83,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Display,13183.65,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Email,11222.61,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Direct Mail,14747.52,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Catalog,12364.35,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Outdoor Media,12491.68,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Radio,10760.27,False,
+2023-06-11,2023,Q2,Spring/Summer,23,Influencer,13163.14,False,
+2023-06-18,2023,Q2,Spring/Summer,24,TV,48762.78,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Paid Search,46359.84,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Paid Social,10378.57,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Display,12428.43,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Email,11526.26,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Direct Mail,12619.12,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Catalog,10630.71,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Outdoor Media,10454.56,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Radio,12760.71,False,
+2023-06-18,2023,Q2,Spring/Summer,24,Influencer,14924.8,False,
+2023-06-25,2023,Q2,Spring/Summer,25,TV,55171.82,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Paid Search,41030.35,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Paid Social,13345.88,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Display,11590.17,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Email,14703.59,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Direct Mail,12844.56,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Catalog,14543.23,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Outdoor Media,10908.25,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Radio,12776.08,False,
+2023-06-25,2023,Q2,Spring/Summer,25,Influencer,10480.83,False,
+2023-07-02,2023,Q3,Fall/Winter,26,TV,109506.09,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Paid Search,94795.14,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Paid Social,25146.76,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Display,21333.44,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Email,24957.75,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Direct Mail,23531.39,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Catalog,27339.33,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Outdoor Media,23763.94,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Radio,21110.55,True,Independence Day Sale
+2023-07-02,2023,Q3,Fall/Winter,26,Influencer,21484.88,True,Independence Day Sale
+2023-07-09,2023,Q3,Fall/Winter,27,TV,49024.39,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Paid Search,52331.21,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Paid Social,12778.62,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Display,12163.58,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Email,10675.09,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Direct Mail,14124.23,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Catalog,12946.91,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Outdoor Media,14979.92,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Radio,14902.8,False,
+2023-07-09,2023,Q3,Fall/Winter,27,Influencer,14096.06,False,
+2023-07-16,2023,Q3,Fall/Winter,28,TV,42910.63,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Paid Search,50251.88,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Paid Social,12692.2,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Display,14053.23,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Email,13282.08,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Direct Mail,14763.5,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Catalog,11784.7,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Outdoor Media,11465.98,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Radio,13221.02,False,
+2023-07-16,2023,Q3,Fall/Winter,28,Influencer,14631.64,False,
+2023-07-23,2023,Q3,Fall/Winter,29,TV,42622.45,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Paid Search,55559.38,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Paid Social,12174.42,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Display,10319.46,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Email,11250.67,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Direct Mail,14548.31,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Catalog,14868.9,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Outdoor Media,10482.74,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Radio,12392.67,False,
+2023-07-23,2023,Q3,Fall/Winter,29,Influencer,13061.61,False,
+2023-07-30,2023,Q3,Fall/Winter,30,TV,44843.56,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Paid Search,56086.69,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Paid Social,14674.5,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Display,14289.62,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Email,11476.66,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Direct Mail,12723.95,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Catalog,14060.76,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Outdoor Media,14292.6,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Radio,13616.91,False,
+2023-07-30,2023,Q3,Fall/Winter,30,Influencer,12374.18,False,
+2023-08-06,2023,Q3,Fall/Winter,31,TV,49046.99,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Paid Search,46129.05,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Paid Social,12042.77,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Display,13688.45,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Email,13034.01,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Direct Mail,13713.66,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Catalog,11393.49,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Outdoor Media,13577.91,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Radio,10674.01,False,
+2023-08-06,2023,Q3,Fall/Winter,31,Influencer,11328.12,False,
+2023-08-13,2023,Q3,Fall/Winter,32,TV,54779.21,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Paid Search,54847.37,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Paid Social,14354.94,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Display,14095.62,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Email,10507.57,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Direct Mail,13964.22,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Catalog,10028.77,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Outdoor Media,10725.1,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Radio,11979.54,False,
+2023-08-13,2023,Q3,Fall/Winter,32,Influencer,12283.59,False,
+2023-08-20,2023,Q3,Fall/Winter,33,TV,48239.92,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Paid Search,49841.72,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Paid Social,12925.1,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Display,13359.48,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Email,10294.62,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Direct Mail,11598.92,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Catalog,14541.72,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Outdoor Media,10798.6,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Radio,11316.08,False,
+2023-08-20,2023,Q3,Fall/Winter,33,Influencer,12611.51,False,
+2023-08-27,2023,Q3,Fall/Winter,34,TV,50353.18,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Paid Search,51236.56,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Paid Social,14614.16,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Display,13931.79,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Email,11958.08,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Direct Mail,10693.62,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Catalog,14551.02,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Outdoor Media,11385.92,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Radio,11698.83,False,
+2023-08-27,2023,Q3,Fall/Winter,34,Influencer,10244.83,False,
+2023-09-03,2023,Q3,Fall/Winter,35,TV,110055.54,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Paid Search,117306.17,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Paid Social,21015.07,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Display,23489.54,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Email,23025.73,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Direct Mail,22495.47,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Catalog,26180.33,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Outdoor Media,29930.5,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Radio,27595.73,True,Labor Day Sale
+2023-09-03,2023,Q3,Fall/Winter,35,Influencer,28901.58,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,TV,104719.41,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Paid Search,114036.34,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Paid Social,21967.69,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Display,29336.11,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Email,20486.89,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Direct Mail,21908.7,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Catalog,28039.77,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Outdoor Media,20090.98,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Radio,29783.69,True,Labor Day Sale
+2023-09-10,2023,Q3,Fall/Winter,36,Influencer,24183.04,True,Labor Day Sale
+2023-09-17,2023,Q3,Fall/Winter,37,TV,48397.2,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Paid Search,51194.18,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Paid Social,11554.25,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Display,13650.18,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Email,10072.4,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Direct Mail,12859.72,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Catalog,14458.29,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Outdoor Media,13086.55,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Radio,12562.3,False,
+2023-09-17,2023,Q3,Fall/Winter,37,Influencer,12392.2,False,
+2023-09-24,2023,Q3,Fall/Winter,38,TV,42505.65,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Paid Search,51898.2,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Paid Social,10622.62,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Display,13867.32,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Email,10523.63,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Direct Mail,14924.82,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Catalog,10541.94,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Outdoor Media,10611.19,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Radio,12260.08,False,
+2023-09-24,2023,Q3,Fall/Winter,38,Influencer,11627.27,False,
+2023-10-01,2023,Q4,Fall/Winter,39,TV,48867.02,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Paid Search,57859.14,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Paid Social,14082.24,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Display,13649.64,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Email,10347.16,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Direct Mail,12854.54,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Catalog,14953.85,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Outdoor Media,13880.06,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Radio,14725.65,False,
+2023-10-01,2023,Q4,Fall/Winter,39,Influencer,11626.93,False,
+2023-10-08,2023,Q4,Fall/Winter,40,TV,58359.14,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Paid Search,48417.64,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Paid Social,14518.19,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Display,13275.28,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Email,10618.73,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Direct Mail,14077.07,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Catalog,12840.22,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Outdoor Media,11613.68,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Radio,10763.26,False,
+2023-10-08,2023,Q4,Fall/Winter,40,Influencer,14288.44,False,
+2023-10-15,2023,Q4,Fall/Winter,41,TV,48619.67,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Paid Search,56718.29,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Paid Social,11274.54,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Display,11400.4,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Email,13558.12,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Direct Mail,13661.4,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Catalog,12092.79,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Outdoor Media,12748.22,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Radio,13752.9,False,
+2023-10-15,2023,Q4,Fall/Winter,41,Influencer,12298.86,False,
+2023-10-22,2023,Q4,Fall/Winter,42,TV,43264.69,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Paid Search,58550.0,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Paid Social,10632.17,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Display,12276.65,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Email,10972.53,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Direct Mail,11839.47,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Catalog,11172.5,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Outdoor Media,13748.98,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Radio,14823.82,False,
+2023-10-22,2023,Q4,Fall/Winter,42,Influencer,14823.0,False,
+2023-10-29,2023,Q4,Fall/Winter,43,TV,50331.06,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Paid Search,40721.85,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Paid Social,13002.49,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Display,12825.54,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Email,12378.57,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Direct Mail,14845.58,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Catalog,10988.81,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Outdoor Media,10577.6,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Radio,14639.74,False,
+2023-10-29,2023,Q4,Fall/Winter,43,Influencer,13171.27,False,
+2023-11-05,2023,Q4,Fall/Winter,44,TV,51322.03,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Paid Search,47456.95,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Paid Social,11407.56,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Display,13266.43,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Email,10561.81,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Direct Mail,12129.66,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Catalog,12819.23,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Outdoor Media,12273.71,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Radio,12462.19,False,
+2023-11-05,2023,Q4,Fall/Winter,44,Influencer,11888.01,False,
+2023-11-12,2023,Q4,Fall/Winter,45,TV,53143.2,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Paid Search,55464.09,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Paid Social,11224.87,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Display,14978.04,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Email,10000.28,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Direct Mail,10543.97,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Catalog,12357.91,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Outdoor Media,11994.25,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Radio,10042.0,False,
+2023-11-12,2023,Q4,Fall/Winter,45,Influencer,10475.38,False,
+2023-11-19,2023,Q4,Fall/Winter,46,TV,100983.84,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Paid Search,97919.89,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Paid Social,26186.41,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Display,21833.74,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Email,22697.04,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Direct Mail,23276.16,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Catalog,25926.84,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Outdoor Media,23582.28,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Radio,21510.46,True,Black Friday
+2023-11-19,2023,Q4,Fall/Winter,46,Influencer,27933.8,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,TV,81803.61,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Paid Search,92387.75,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Paid Social,22675.33,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Display,27593.1,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Email,21235.54,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Direct Mail,20852.68,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Catalog,28547.5,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Outdoor Media,24157.1,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Radio,26274.66,True,Black Friday
+2023-11-26,2023,Q4,Fall/Winter,47,Influencer,23644.15,True,Black Friday
+2023-12-03,2023,Q4,Fall/Winter,48,TV,49198.14,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Paid Search,49238.2,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Paid Social,14736.33,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Display,14153.35,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Email,10003.51,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Direct Mail,14538.97,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Catalog,12751.68,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Outdoor Media,11034.74,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Radio,13534.63,False,
+2023-12-03,2023,Q4,Fall/Winter,48,Influencer,12677.02,False,
+2023-12-10,2023,Q4,Fall/Winter,49,TV,44569.41,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Paid Search,48657.36,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Paid Social,14697.44,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Display,11849.44,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Email,13808.61,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Direct Mail,14162.52,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Catalog,10910.42,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Outdoor Media,10026.01,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Radio,11295.63,False,
+2023-12-10,2023,Q4,Fall/Winter,49,Influencer,11983.66,False,
+2023-12-17,2023,Q4,Fall/Winter,50,TV,47348.89,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Paid Search,50014.17,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Paid Social,11533.13,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Display,13994.99,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Email,14707.18,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Direct Mail,11465.17,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Catalog,13516.42,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Outdoor Media,13049.03,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Radio,13422.86,False,
+2023-12-17,2023,Q4,Fall/Winter,50,Influencer,11216.59,False,
+2023-12-24,2023,Q4,Fall/Winter,51,TV,88749.48,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Paid Search,108173.81,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Paid Social,28474.7,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Display,23598.77,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Email,26337.5,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Direct Mail,27987.25,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Catalog,29259.71,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Outdoor Media,21453.49,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Radio,22070.38,True,Holiday Clearance
+2023-12-24,2023,Q4,Fall/Winter,51,Influencer,24766.26,True,Holiday Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,TV,110113.34,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Paid Search,101530.17,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Paid Social,21989.2,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Display,20989.6,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Email,27169.69,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Direct Mail,24940.71,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Catalog,26025.51,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Outdoor Media,20883.07,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Radio,20627.41,True,Winter Clearance
+2023-12-31,2023,Q4,Fall/Winter,52,Influencer,28229.93,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,TV,115409.95,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Paid Search,103381.13,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Paid Social,29091.4,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Display,26777.14,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Email,25620.46,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Direct Mail,22470.3,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Catalog,26776.37,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Outdoor Media,27215.56,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Radio,20906.97,True,Winter Clearance
+2024-01-07,2024,Q1,Spring/Summer,1,Influencer,24238.06,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,TV,112138.59,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Paid Search,81416.82,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Paid Social,21616.68,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Display,26468.9,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Email,29243.24,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Direct Mail,23575.83,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Catalog,25746.72,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Outdoor Media,28624.76,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Radio,24743.32,True,Winter Clearance
+2024-01-14,2024,Q1,Spring/Summer,2,Influencer,29496.85,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,TV,102619.81,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Paid Search,102430.04,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Paid Social,27433.54,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Display,21896.32,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Email,28976.76,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Direct Mail,28095.38,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Catalog,26648.43,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Outdoor Media,24844.8,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Radio,20070.52,True,Winter Clearance
+2024-01-21,2024,Q1,Spring/Summer,3,Influencer,27865.27,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,TV,98327.54,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Paid Search,101520.69,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Paid Social,27087.46,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Display,26418.98,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Email,25035.96,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Direct Mail,20655.73,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Catalog,23274.61,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Outdoor Media,26851.73,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Radio,29461.88,True,Winter Clearance
+2024-01-28,2024,Q1,Spring/Summer,4,Influencer,21372.02,True,Winter Clearance
+2024-02-04,2024,Q1,Spring/Summer,5,TV,43286.58,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Paid Search,47314.59,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Paid Social,10789.96,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Display,10343.51,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Email,13190.44,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Direct Mail,12956.24,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Catalog,10811.73,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Outdoor Media,10328.46,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Radio,10693.99,False,
+2024-02-04,2024,Q1,Spring/Summer,5,Influencer,10758.61,False,
+2024-02-11,2024,Q1,Spring/Summer,6,TV,41346.22,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Paid Search,50556.99,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Paid Social,10633.09,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Display,13158.74,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Email,11427.13,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Direct Mail,13116.64,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Catalog,10485.72,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Outdoor Media,14100.56,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Radio,14771.63,False,
+2024-02-11,2024,Q1,Spring/Summer,6,Influencer,13659.53,False,
+2024-02-18,2024,Q1,Spring/Summer,7,TV,48074.38,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Paid Search,52368.38,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Paid Social,12502.61,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Display,14332.26,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Email,13100.68,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Direct Mail,11823.04,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Catalog,12824.18,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Outdoor Media,14441.9,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Radio,11505.04,False,
+2024-02-18,2024,Q1,Spring/Summer,7,Influencer,13042.33,False,
+2024-02-25,2024,Q1,Spring/Summer,8,TV,54073.95,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Paid Search,44347.06,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Paid Social,10152.45,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Display,14212.74,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Email,14061.84,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Direct Mail,14462.09,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Catalog,10604.0,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Outdoor Media,13316.85,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Radio,10946.41,False,
+2024-02-25,2024,Q1,Spring/Summer,8,Influencer,14523.43,False,
+2024-03-03,2024,Q1,Spring/Summer,9,TV,55396.74,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Paid Search,52513.76,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Paid Social,13977.85,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Display,14038.95,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Email,11717.96,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Direct Mail,14660.17,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Catalog,10870.02,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Outdoor Media,10571.47,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Radio,10799.65,False,
+2024-03-03,2024,Q1,Spring/Summer,9,Influencer,14019.26,False,
+2024-03-10,2024,Q1,Spring/Summer,10,TV,40828.35,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Paid Search,44349.81,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Paid Social,11107.9,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Display,11600.91,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Email,13480.71,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Direct Mail,14520.48,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Catalog,10142.62,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Outdoor Media,11012.16,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Radio,13754.69,False,
+2024-03-10,2024,Q1,Spring/Summer,10,Influencer,11826.31,False,
+2024-03-17,2024,Q1,Spring/Summer,11,TV,54182.07,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Paid Search,51593.93,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Paid Social,12452.04,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Display,12611.82,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Email,11131.85,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Direct Mail,11729.84,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Catalog,14465.7,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Outdoor Media,14381.98,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Radio,11382.22,False,
+2024-03-17,2024,Q1,Spring/Summer,11,Influencer,12281.43,False,
+2024-03-24,2024,Q1,Spring/Summer,12,TV,56027.56,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Paid Search,42659.36,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Paid Social,10516.06,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Display,14093.83,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Email,14117.17,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Direct Mail,11742.61,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Catalog,11191.87,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Outdoor Media,13334.6,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Radio,12748.53,False,
+2024-03-24,2024,Q1,Spring/Summer,12,Influencer,11224.48,False,
+2024-03-31,2024,Q1,Spring/Summer,13,TV,56043.91,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Paid Search,56346.59,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Paid Social,13957.26,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Display,13612.25,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Email,11220.41,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Direct Mail,13550.03,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Catalog,12339.4,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Outdoor Media,11765.82,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Radio,13264.65,False,
+2024-03-31,2024,Q1,Spring/Summer,13,Influencer,11520.2,False,
+2024-04-07,2024,Q2,Spring/Summer,14,TV,54601.33,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Paid Search,59416.24,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Paid Social,10037.64,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Display,11355.36,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Email,12202.92,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Direct Mail,13765.84,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Catalog,10639.16,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Outdoor Media,10144.52,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Radio,10185.5,False,
+2024-04-07,2024,Q2,Spring/Summer,14,Influencer,11609.36,False,
+2024-04-14,2024,Q2,Spring/Summer,15,TV,51235.41,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Paid Search,54364.81,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Paid Social,11114.19,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Display,13081.68,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Email,11940.26,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Direct Mail,12411.74,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Catalog,12805.0,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Outdoor Media,12587.2,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Radio,11411.85,False,
+2024-04-14,2024,Q2,Spring/Summer,15,Influencer,14389.74,False,
+2024-04-21,2024,Q2,Spring/Summer,16,TV,46003.46,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Paid Search,48429.53,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Paid Social,11728.13,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Display,12951.87,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Email,14593.49,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Direct Mail,11686.39,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Catalog,12893.18,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Outdoor Media,12285.35,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Radio,14693.26,False,
+2024-04-21,2024,Q2,Spring/Summer,16,Influencer,13476.04,False,
+2024-04-28,2024,Q2,Spring/Summer,17,TV,51853.6,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Paid Search,54400.4,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Paid Social,10027.2,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Display,13659.05,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Email,13085.53,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Direct Mail,12049.11,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Catalog,11779.02,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Outdoor Media,11018.7,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Radio,11469.39,False,
+2024-04-28,2024,Q2,Spring/Summer,17,Influencer,14535.15,False,
+2024-05-05,2024,Q2,Spring/Summer,18,TV,57064.38,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Paid Search,49558.8,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Paid Social,14519.13,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Display,12328.69,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Email,10418.92,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Direct Mail,13306.23,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Catalog,13866.6,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Outdoor Media,11582.57,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Radio,12805.56,False,
+2024-05-05,2024,Q2,Spring/Summer,18,Influencer,14019.49,False,
+2024-05-12,2024,Q2,Spring/Summer,19,TV,98297.55,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Paid Search,98404.67,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Paid Social,21921.06,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Display,22608.81,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Email,21127.0,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Direct Mail,21155.25,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Catalog,21324.17,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Outdoor Media,21058.1,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Radio,22537.27,True,Anniversary Sale
+2024-05-12,2024,Q2,Spring/Summer,19,Influencer,26633.48,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,TV,80194.22,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Paid Search,113777.49,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Paid Social,29139.15,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Display,23613.41,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Email,25687.9,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Direct Mail,20632.38,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Catalog,21939.38,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Outdoor Media,22257.32,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Radio,26569.07,True,Anniversary Sale
+2024-05-19,2024,Q2,Spring/Summer,20,Influencer,28025.59,True,Anniversary Sale
+2024-05-26,2024,Q2,Spring/Summer,21,TV,98015.13,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Paid Search,86081.28,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Paid Social,29482.14,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Display,29411.33,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Email,22429.61,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Direct Mail,23725.21,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Catalog,27550.62,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Outdoor Media,24230.71,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Radio,29342.04,True,Memorial Day Sale
+2024-05-26,2024,Q2,Spring/Summer,21,Influencer,25807.29,True,Memorial Day Sale
+2024-06-02,2024,Q2,Spring/Summer,22,TV,48212.29,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Paid Search,55590.41,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Paid Social,13252.6,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Display,13931.73,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Email,11065.48,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Direct Mail,12684.07,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Catalog,12630.2,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Outdoor Media,12204.75,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Radio,10367.76,False,
+2024-06-02,2024,Q2,Spring/Summer,22,Influencer,13252.49,False,
+2024-06-09,2024,Q2,Spring/Summer,23,TV,53484.33,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Paid Search,50696.17,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Paid Social,12761.11,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Display,14843.9,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Email,11608.44,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Direct Mail,12828.96,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Catalog,13244.1,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Outdoor Media,11656.09,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Radio,11255.04,False,
+2024-06-09,2024,Q2,Spring/Summer,23,Influencer,11504.14,False,
+2024-06-16,2024,Q2,Spring/Summer,24,TV,50027.32,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Paid Search,43911.72,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Paid Social,13897.72,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Display,10720.31,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Email,11742.18,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Direct Mail,11757.12,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Catalog,14263.51,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Outdoor Media,11091.26,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Radio,14900.49,False,
+2024-06-16,2024,Q2,Spring/Summer,24,Influencer,14368.22,False,
+2024-06-23,2024,Q2,Spring/Summer,25,TV,48580.82,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Paid Search,44846.89,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Paid Social,14406.23,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Display,14168.49,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Email,12953.29,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Direct Mail,12220.21,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Catalog,10392.37,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Outdoor Media,11125.0,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Radio,13364.37,False,
+2024-06-23,2024,Q2,Spring/Summer,25,Influencer,13232.61,False,
+2024-06-30,2024,Q2,Spring/Summer,26,TV,89533.07,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Paid Search,114503.29,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Paid Social,28814.78,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Display,28789.98,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Email,20612.62,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Direct Mail,25625.04,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Catalog,21601.18,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Outdoor Media,29778.02,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Radio,27021.06,True,Independence Day Sale
+2024-06-30,2024,Q2,Spring/Summer,26,Influencer,23579.03,True,Independence Day Sale
+2024-07-07,2024,Q3,Fall/Winter,27,TV,42180.14,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Paid Search,47501.12,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Paid Social,11797.43,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Display,11571.07,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Email,12274.08,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Direct Mail,12069.73,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Catalog,14406.2,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Outdoor Media,11382.91,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Radio,10978.26,False,
+2024-07-07,2024,Q3,Fall/Winter,27,Influencer,14728.37,False,
+2024-07-14,2024,Q3,Fall/Winter,28,TV,55965.81,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Paid Search,43758.9,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Paid Social,14033.25,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Display,13895.48,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Email,11804.96,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Direct Mail,11568.78,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Catalog,11147.48,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Outdoor Media,14157.46,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Radio,12486.67,False,
+2024-07-14,2024,Q3,Fall/Winter,28,Influencer,14579.18,False,
+2024-07-21,2024,Q3,Fall/Winter,29,TV,50212.95,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Paid Search,50903.25,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Paid Social,13296.58,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Display,10995.24,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Email,12915.21,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Direct Mail,14962.96,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Catalog,10055.16,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Outdoor Media,10345.93,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Radio,12737.03,False,
+2024-07-21,2024,Q3,Fall/Winter,29,Influencer,10155.35,False,
+2024-07-28,2024,Q3,Fall/Winter,30,TV,53454.21,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Paid Search,41559.73,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Paid Social,14977.59,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Display,11614.9,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Email,13071.58,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Direct Mail,14296.77,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Catalog,12751.87,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Outdoor Media,14766.88,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Radio,13765.83,False,
+2024-07-28,2024,Q3,Fall/Winter,30,Influencer,12967.29,False,
+2024-08-04,2024,Q3,Fall/Winter,31,TV,50745.25,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Paid Search,41496.52,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Paid Social,10096.71,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Display,14753.57,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Email,12171.76,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Direct Mail,10063.61,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Catalog,12874.73,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Outdoor Media,10936.46,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Radio,14071.08,False,
+2024-08-04,2024,Q3,Fall/Winter,31,Influencer,14370.1,False,
+2024-08-11,2024,Q3,Fall/Winter,32,TV,56115.62,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Paid Search,40102.88,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Paid Social,11831.88,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Display,13386.54,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Email,12173.94,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Direct Mail,11698.3,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Catalog,12787.83,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Outdoor Media,12313.04,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Radio,14051.47,False,
+2024-08-11,2024,Q3,Fall/Winter,32,Influencer,11249.97,False,
+2024-08-18,2024,Q3,Fall/Winter,33,TV,59554.49,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Paid Search,58642.11,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Paid Social,11819.23,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Display,12068.17,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Email,13727.73,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Direct Mail,14217.03,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Catalog,14291.35,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Outdoor Media,12759.94,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Radio,12107.1,False,
+2024-08-18,2024,Q3,Fall/Winter,33,Influencer,11653.53,False,
+2024-08-25,2024,Q3,Fall/Winter,34,TV,47284.92,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Paid Search,40093.03,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Paid Social,12473.49,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Display,10375.7,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Email,12413.1,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Direct Mail,10936.89,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Catalog,14053.53,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Outdoor Media,14568.95,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Radio,13894.3,False,
+2024-08-25,2024,Q3,Fall/Winter,34,Influencer,14380.61,False,
+2024-09-01,2024,Q3,Fall/Winter,35,TV,118136.76,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Paid Search,101873.82,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Paid Social,24384.64,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Display,22127.62,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Email,28105.21,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Direct Mail,28613.86,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Catalog,29030.51,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Outdoor Media,21237.41,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Radio,26947.75,True,Labor Day Sale
+2024-09-01,2024,Q3,Fall/Winter,35,Influencer,26660.54,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,TV,80716.45,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Paid Search,98480.14,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Paid Social,26249.27,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Display,22137.2,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Email,24660.75,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Direct Mail,24453.99,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Catalog,22427.63,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Outdoor Media,26570.05,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Radio,22358.6,True,Labor Day Sale
+2024-09-08,2024,Q3,Fall/Winter,36,Influencer,20537.29,True,Labor Day Sale
+2024-09-15,2024,Q3,Fall/Winter,37,TV,45093.67,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Paid Search,54938.87,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Paid Social,10627.23,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Display,10882.73,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Email,13607.86,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Direct Mail,14377.99,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Catalog,13344.79,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Outdoor Media,14806.92,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Radio,11061.67,False,
+2024-09-15,2024,Q3,Fall/Winter,37,Influencer,10484.1,False,
+2024-09-22,2024,Q3,Fall/Winter,38,TV,57533.66,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Paid Search,55141.25,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Paid Social,10779.73,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Display,12371.38,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Email,11266.14,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Direct Mail,10763.84,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Catalog,10977.28,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Outdoor Media,12250.2,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Radio,14529.37,False,
+2024-09-22,2024,Q3,Fall/Winter,38,Influencer,11456.59,False,
+2024-09-29,2024,Q3,Fall/Winter,39,TV,52146.09,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Paid Search,50239.22,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Paid Social,10567.77,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Display,12506.99,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Email,11292.24,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Direct Mail,12274.22,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Catalog,13643.17,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Outdoor Media,11223.81,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Radio,14193.73,False,
+2024-09-29,2024,Q3,Fall/Winter,39,Influencer,13500.33,False,
+2024-10-06,2024,Q4,Fall/Winter,40,TV,48706.95,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Paid Search,55802.6,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Paid Social,11051.92,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Display,14561.58,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Email,11193.02,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Direct Mail,10678.66,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Catalog,13378.68,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Outdoor Media,12528.3,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Radio,14678.99,False,
+2024-10-06,2024,Q4,Fall/Winter,40,Influencer,10434.58,False,
+2024-10-13,2024,Q4,Fall/Winter,41,TV,50505.71,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Paid Search,56523.64,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Paid Social,13408.19,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Display,10675.05,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Email,14659.47,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Direct Mail,13605.57,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Catalog,11545.05,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Outdoor Media,14961.97,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Radio,12279.13,False,
+2024-10-13,2024,Q4,Fall/Winter,41,Influencer,12733.98,False,
+2024-10-20,2024,Q4,Fall/Winter,42,TV,57062.12,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Paid Search,58273.48,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Paid Social,12891.69,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Display,10216.02,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Email,14948.93,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Direct Mail,14108.02,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Catalog,10352.71,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Outdoor Media,14171.5,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Radio,13146.85,False,
+2024-10-20,2024,Q4,Fall/Winter,42,Influencer,14618.53,False,
+2024-10-27,2024,Q4,Fall/Winter,43,TV,47304.0,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Paid Search,59521.18,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Paid Social,10098.51,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Display,13069.24,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Email,12933.05,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Direct Mail,11228.09,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Catalog,12972.22,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Outdoor Media,12307.88,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Radio,14180.79,False,
+2024-10-27,2024,Q4,Fall/Winter,43,Influencer,11341.35,False,
+2024-11-03,2024,Q4,Fall/Winter,44,TV,48925.39,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Paid Search,58049.35,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Paid Social,13659.28,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Display,14729.65,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Email,14796.94,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Direct Mail,14276.96,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Catalog,13923.2,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Outdoor Media,11068.79,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Radio,12318.52,False,
+2024-11-03,2024,Q4,Fall/Winter,44,Influencer,11383.71,False,
+2024-11-10,2024,Q4,Fall/Winter,45,TV,51825.63,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Paid Search,54309.71,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Paid Social,12018.33,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Display,13529.03,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Email,10916.53,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Direct Mail,13963.45,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Catalog,11291.57,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Outdoor Media,12784.82,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Radio,11404.08,False,
+2024-11-10,2024,Q4,Fall/Winter,45,Influencer,12157.41,False,
+2024-11-17,2024,Q4,Fall/Winter,46,TV,88444.3,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Paid Search,114460.92,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Paid Social,27613.48,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Display,29588.82,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Email,21600.52,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Direct Mail,25378.3,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Catalog,24945.92,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Outdoor Media,26227.74,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Radio,20302.86,True,Black Friday
+2024-11-17,2024,Q4,Fall/Winter,46,Influencer,24626.78,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,TV,112762.51,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Paid Search,82592.23,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Paid Social,27162.76,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Display,20172.37,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Email,24757.37,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Direct Mail,26217.16,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Catalog,22206.83,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Outdoor Media,24769.53,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Radio,25454.6,True,Black Friday
+2024-11-24,2024,Q4,Fall/Winter,47,Influencer,20860.84,True,Black Friday
+2024-12-01,2024,Q4,Fall/Winter,48,TV,49607.97,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Paid Search,41519.42,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Paid Social,13876.24,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Display,12905.7,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Email,13177.38,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Direct Mail,10448.25,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Catalog,14955.83,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Outdoor Media,14983.64,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Radio,10296.22,False,
+2024-12-01,2024,Q4,Fall/Winter,48,Influencer,13713.35,False,
+2024-12-08,2024,Q4,Fall/Winter,49,TV,44888.52,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Paid Search,44308.65,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Paid Social,11730.35,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Display,10784.53,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Email,11558.27,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Direct Mail,12299.0,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Catalog,12437.65,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Outdoor Media,10640.94,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Radio,11601.65,False,
+2024-12-08,2024,Q4,Fall/Winter,49,Influencer,14480.41,False,
+2024-12-15,2024,Q4,Fall/Winter,50,TV,58816.9,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Paid Search,50565.96,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Paid Social,12787.99,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Display,10484.62,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Email,13411.58,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Direct Mail,13075.5,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Catalog,11687.33,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Outdoor Media,10701.24,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Radio,14784.64,False,
+2024-12-15,2024,Q4,Fall/Winter,50,Influencer,12691.36,False,
+2024-12-22,2024,Q4,Fall/Winter,51,TV,99922.19,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Paid Search,100568.98,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Paid Social,28507.63,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Display,24785.03,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Email,25329.55,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Direct Mail,23039.62,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Catalog,27880.16,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Outdoor Media,25899.19,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Radio,25945.54,True,Holiday Clearance
+2024-12-22,2024,Q4,Fall/Winter,51,Influencer,29241.22,True,Holiday Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,TV,118085.45,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Paid Search,88918.29,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Paid Social,27069.96,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Display,20641.58,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Email,28872.75,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Direct Mail,22652.29,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Catalog,22799.41,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Outdoor Media,27602.36,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Radio,27379.73,True,Winter Clearance
+2024-12-29,2024,Q4,Fall/Winter,52,Influencer,25262.05,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,TV,98708.18,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Paid Search,82002.75,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Paid Social,27856.84,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Display,24660.69,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Email,20637.82,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Direct Mail,21949.37,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Catalog,24086.91,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Outdoor Media,25709.2,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Radio,22810.54,True,Winter Clearance
+2025-01-05,2025,Q1,Spring/Summer,1,Influencer,25718.1,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,TV,83916.74,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Paid Search,89439.03,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Paid Social,20611.08,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Display,29740.44,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Email,27445.84,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Direct Mail,26365.47,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Catalog,26626.34,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Outdoor Media,20524.1,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Radio,22037.66,True,Winter Clearance
+2025-01-12,2025,Q1,Spring/Summer,2,Influencer,28420.59,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,TV,102029.52,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Paid Search,85669.87,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Paid Social,23040.47,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Display,26307.17,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Email,21881.73,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Direct Mail,28075.49,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Catalog,22832.35,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Outdoor Media,28029.5,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Radio,23267.47,True,Winter Clearance
+2025-01-19,2025,Q1,Spring/Summer,3,Influencer,21510.45,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,TV,96908.56,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Paid Search,86985.72,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Paid Social,28335.51,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Display,28848.87,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Email,26606.29,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Direct Mail,29001.47,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Catalog,25745.02,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Outdoor Media,22788.19,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Radio,21579.02,True,Winter Clearance
+2025-01-26,2025,Q1,Spring/Summer,4,Influencer,25267.86,True,Winter Clearance
+2025-02-02,2025,Q1,Spring/Summer,5,TV,43796.23,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Paid Search,58979.25,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Paid Social,11420.49,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Display,10693.35,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Email,14479.38,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Direct Mail,13359.13,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Catalog,10497.73,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Outdoor Media,14908.32,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Radio,11289.82,False,
+2025-02-02,2025,Q1,Spring/Summer,5,Influencer,13842.25,False,
+2025-02-09,2025,Q1,Spring/Summer,6,TV,40312.62,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Paid Search,50387.27,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Paid Social,13081.6,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Display,12581.98,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Email,14250.44,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Direct Mail,10046.65,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Catalog,13599.7,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Outdoor Media,10476.4,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Radio,13069.95,False,
+2025-02-09,2025,Q1,Spring/Summer,6,Influencer,10809.79,False,
+2025-02-16,2025,Q1,Spring/Summer,7,TV,48161.82,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Paid Search,43847.86,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Paid Social,12642.66,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Display,14411.98,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Email,10263.77,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Direct Mail,12980.42,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Catalog,12178.14,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Outdoor Media,14890.91,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Radio,10182.11,False,
+2025-02-16,2025,Q1,Spring/Summer,7,Influencer,11988.27,False,
+2025-02-23,2025,Q1,Spring/Summer,8,TV,45157.33,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Paid Search,46909.96,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Paid Social,10146.33,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Display,14213.04,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Email,12267.76,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Direct Mail,12643.07,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Catalog,11905.63,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Outdoor Media,12085.58,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Radio,13204.14,False,
+2025-02-23,2025,Q1,Spring/Summer,8,Influencer,14425.8,False,
+2025-03-02,2025,Q1,Spring/Summer,9,TV,51298.4,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Paid Search,49775.2,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Paid Social,13988.11,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Display,14842.67,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Email,13984.01,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Direct Mail,10790.69,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Catalog,13117.16,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Outdoor Media,13875.87,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Radio,12069.74,False,
+2025-03-02,2025,Q1,Spring/Summer,9,Influencer,10152.64,False,
+2025-03-09,2025,Q1,Spring/Summer,10,TV,51884.19,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Paid Search,41162.91,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Paid Social,14084.69,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Display,14346.7,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Email,13263.91,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Direct Mail,12021.88,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Catalog,13391.56,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Outdoor Media,11793.07,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Radio,11673.49,False,
+2025-03-09,2025,Q1,Spring/Summer,10,Influencer,12586.75,False,
+2025-03-16,2025,Q1,Spring/Summer,11,TV,47386.46,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Paid Search,59479.35,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Paid Social,14169.55,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Display,10052.66,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Email,10493.49,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Direct Mail,11856.34,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Catalog,14435.3,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Outdoor Media,11649.62,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Radio,13933.12,False,
+2025-03-16,2025,Q1,Spring/Summer,11,Influencer,13924.17,False,
+2025-03-23,2025,Q1,Spring/Summer,12,TV,55318.43,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Paid Search,56537.08,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Paid Social,14558.19,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Display,10428.02,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Email,10544.97,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Direct Mail,14647.5,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Catalog,14738.71,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Outdoor Media,11091.96,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Radio,14983.14,False,
+2025-03-23,2025,Q1,Spring/Summer,12,Influencer,12404.78,False,
+2025-03-30,2025,Q1,Spring/Summer,13,TV,58825.85,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Paid Search,59164.72,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Paid Social,13920.27,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Display,13259.64,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Email,12368.93,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Direct Mail,14947.83,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Catalog,14498.5,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Outdoor Media,13401.51,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Radio,11016.68,False,
+2025-03-30,2025,Q1,Spring/Summer,13,Influencer,14563.99,False,
+2025-04-06,2025,Q2,Spring/Summer,14,TV,54761.08,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Paid Search,55867.0,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Paid Social,14319.18,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Display,12571.72,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Email,13132.66,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Direct Mail,14459.42,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Catalog,13645.58,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Outdoor Media,13347.74,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Radio,14347.56,False,
+2025-04-06,2025,Q2,Spring/Summer,14,Influencer,12322.38,False,
+2025-04-13,2025,Q2,Spring/Summer,15,TV,49993.9,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Paid Search,48542.27,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Paid Social,14806.44,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Display,12922.27,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Email,14466.74,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Direct Mail,10451.76,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Catalog,13028.22,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Outdoor Media,12084.48,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Radio,12586.39,False,
+2025-04-13,2025,Q2,Spring/Summer,15,Influencer,14648.24,False,
+2025-04-20,2025,Q2,Spring/Summer,16,TV,54820.4,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Paid Search,45587.28,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Paid Social,14168.55,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Display,10304.56,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Email,10490.67,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Direct Mail,10722.31,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Catalog,12863.33,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Outdoor Media,12145.43,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Radio,12636.51,False,
+2025-04-20,2025,Q2,Spring/Summer,16,Influencer,14296.24,False,
+2025-04-27,2025,Q2,Spring/Summer,17,TV,48876.81,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Paid Search,55773.38,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Paid Social,14889.58,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Display,12097.17,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Email,14106.12,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Direct Mail,11413.43,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Catalog,13139.14,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Outdoor Media,11016.31,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Radio,11220.88,False,
+2025-04-27,2025,Q2,Spring/Summer,17,Influencer,11403.68,False,
+2025-05-04,2025,Q2,Spring/Summer,18,TV,52178.02,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Paid Search,55735.4,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Paid Social,13350.26,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Display,14968.27,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Email,13960.01,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Direct Mail,14971.07,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Catalog,10174.61,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Outdoor Media,12421.4,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Radio,13245.45,False,
+2025-05-04,2025,Q2,Spring/Summer,18,Influencer,11458.49,False,
+2025-05-11,2025,Q2,Spring/Summer,19,TV,99064.38,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Paid Search,109304.92,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Paid Social,26357.49,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Display,24075.27,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Email,25641.42,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Direct Mail,25490.45,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Catalog,28991.45,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Outdoor Media,29980.19,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Radio,20770.11,True,Anniversary Sale
+2025-05-11,2025,Q2,Spring/Summer,19,Influencer,25465.98,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,TV,80037.08,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Paid Search,103048.38,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Paid Social,20873.49,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Display,24331.54,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Email,27292.53,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Direct Mail,24243.43,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Catalog,24386.23,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Outdoor Media,22041.1,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Radio,21218.95,True,Anniversary Sale
+2025-05-18,2025,Q2,Spring/Summer,20,Influencer,26165.53,True,Anniversary Sale
+2025-05-25,2025,Q2,Spring/Summer,21,TV,92909.03,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Paid Search,96352.65,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Paid Social,25002.23,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Display,23421.52,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Email,21165.73,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Direct Mail,26073.26,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Catalog,29465.58,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Outdoor Media,29187.07,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Radio,28931.38,True,Memorial Day Sale
+2025-05-25,2025,Q2,Spring/Summer,21,Influencer,21711.43,True,Memorial Day Sale
+2025-06-01,2025,Q2,Spring/Summer,22,TV,56548.73,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Paid Search,47762.58,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Paid Social,12848.51,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Display,10204.63,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Email,13037.54,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Direct Mail,12508.52,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Catalog,12595.34,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Outdoor Media,14580.72,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Radio,14436.64,False,
+2025-06-01,2025,Q2,Spring/Summer,22,Influencer,10312.9,False,
+2025-06-08,2025,Q2,Spring/Summer,23,TV,54905.11,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Paid Search,56437.92,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Paid Social,10944.8,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Display,11446.88,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Email,10655.6,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Direct Mail,14986.36,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Catalog,13753.1,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Outdoor Media,14264.89,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Radio,12076.22,False,
+2025-06-08,2025,Q2,Spring/Summer,23,Influencer,11369.97,False,
+2025-06-15,2025,Q2,Spring/Summer,24,TV,56678.79,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Paid Search,42785.21,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Paid Social,11801.24,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Display,13209.96,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Email,12579.77,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Direct Mail,10285.89,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Catalog,12332.51,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Outdoor Media,10522.95,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Radio,12516.76,False,
+2025-06-15,2025,Q2,Spring/Summer,24,Influencer,12917.51,False,
+2025-06-22,2025,Q2,Spring/Summer,25,TV,44082.74,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Paid Search,42794.86,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Paid Social,13336.02,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Display,13308.6,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Email,13110.12,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Direct Mail,10460.21,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Catalog,13158.32,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Outdoor Media,11531.43,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Radio,11574.14,False,
+2025-06-22,2025,Q2,Spring/Summer,25,Influencer,11197.96,False,
+2025-06-29,2025,Q2,Spring/Summer,26,TV,97462.13,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Paid Search,80023.54,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Paid Social,29490.67,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Display,29883.04,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Email,22676.59,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Direct Mail,27173.45,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Catalog,27027.08,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Outdoor Media,27960.92,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Radio,22967.35,True,Independence Day Sale
+2025-06-29,2025,Q2,Spring/Summer,26,Influencer,28400.54,True,Independence Day Sale
+2025-07-06,2025,Q3,Fall/Winter,27,TV,48614.1,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Paid Search,52102.55,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Paid Social,12229.38,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Display,11063.47,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Email,12956.44,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Direct Mail,10020.83,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Catalog,12627.81,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Outdoor Media,13940.9,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Radio,12246.08,False,
+2025-07-06,2025,Q3,Fall/Winter,27,Influencer,13062.87,False,
+2025-07-13,2025,Q3,Fall/Winter,28,TV,55190.04,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Paid Search,58766.22,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Paid Social,11819.74,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Display,11478.65,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Email,10524.23,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Direct Mail,11756.0,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Catalog,13663.7,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Outdoor Media,12895.58,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Radio,12367.49,False,
+2025-07-13,2025,Q3,Fall/Winter,28,Influencer,10695.51,False,
+2025-07-20,2025,Q3,Fall/Winter,29,TV,54565.15,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Paid Search,53267.13,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Paid Social,11181.1,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Display,13144.86,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Email,13998.45,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Direct Mail,11036.3,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Catalog,13356.92,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Outdoor Media,10262.95,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Radio,12147.71,False,
+2025-07-20,2025,Q3,Fall/Winter,29,Influencer,12346.23,False,
+2025-07-27,2025,Q3,Fall/Winter,30,TV,48602.41,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Paid Search,41783.98,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Paid Social,14134.9,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Display,12781.95,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Email,12048.73,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Direct Mail,12447.22,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Catalog,14109.99,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Outdoor Media,11394.74,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Radio,14555.12,False,
+2025-07-27,2025,Q3,Fall/Winter,30,Influencer,10890.65,False,
+2025-08-03,2025,Q3,Fall/Winter,31,TV,49518.88,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Paid Search,54180.63,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Paid Social,10001.42,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Display,13125.43,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Email,11890.62,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Direct Mail,11629.71,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Catalog,10858.41,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Outdoor Media,10696.89,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Radio,14462.96,False,
+2025-08-03,2025,Q3,Fall/Winter,31,Influencer,10332.35,False,
+2025-08-10,2025,Q3,Fall/Winter,32,TV,49183.78,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Paid Search,52150.82,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Paid Social,11348.07,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Display,10552.05,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Email,10781.27,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Direct Mail,14089.26,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Catalog,14555.9,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Outdoor Media,10660.46,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Radio,13265.72,False,
+2025-08-10,2025,Q3,Fall/Winter,32,Influencer,14909.67,False,
+2025-08-17,2025,Q3,Fall/Winter,33,TV,47235.32,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Paid Search,53695.94,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Paid Social,14149.27,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Display,12084.23,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Email,14017.15,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Direct Mail,13419.77,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Catalog,13317.87,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Outdoor Media,12022.72,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Radio,10922.03,False,
+2025-08-17,2025,Q3,Fall/Winter,33,Influencer,11317.08,False,
+2025-08-24,2025,Q3,Fall/Winter,34,TV,52376.7,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Paid Search,56876.7,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Paid Social,12976.57,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Display,11569.79,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Email,10762.03,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Direct Mail,12732.36,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Catalog,12682.78,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Outdoor Media,13219.41,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Radio,14300.65,False,
+2025-08-24,2025,Q3,Fall/Winter,34,Influencer,14804.69,False,
+2025-08-31,2025,Q3,Fall/Winter,35,TV,83953.95,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Paid Search,104451.69,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Paid Social,24367.73,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Display,28441.81,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Email,26007.34,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Direct Mail,21796.23,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Catalog,26447.45,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Outdoor Media,20238.18,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Radio,21002.96,True,Labor Day Sale
+2025-08-31,2025,Q3,Fall/Winter,35,Influencer,28577.24,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,TV,106845.12,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Paid Search,114096.58,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Paid Social,29504.77,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Display,28424.89,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Email,28086.87,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Direct Mail,26410.86,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Catalog,29380.32,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Outdoor Media,22405.21,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Radio,21053.94,True,Labor Day Sale
+2025-09-07,2025,Q3,Fall/Winter,36,Influencer,23223.1,True,Labor Day Sale
+2025-09-14,2025,Q3,Fall/Winter,37,TV,46812.99,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Paid Search,59287.08,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Paid Social,12413.31,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Display,11274.16,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Email,11764.79,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Direct Mail,12787.53,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Catalog,11852.21,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Outdoor Media,14860.59,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Radio,12666.36,False,
+2025-09-14,2025,Q3,Fall/Winter,37,Influencer,12590.4,False,
+2025-09-21,2025,Q3,Fall/Winter,38,TV,49572.9,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Paid Search,56398.37,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Paid Social,14273.08,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Display,14747.32,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Email,13907.45,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Direct Mail,14525.06,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Catalog,13142.87,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Outdoor Media,12141.08,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Radio,13341.36,False,
+2025-09-21,2025,Q3,Fall/Winter,38,Influencer,14860.85,False,
+2025-09-28,2025,Q3,Fall/Winter,39,TV,56978.8,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Paid Search,50212.47,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Paid Social,14330.12,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Display,13965.13,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Email,11312.26,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Direct Mail,12677.38,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Catalog,14095.71,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Outdoor Media,10763.53,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Radio,13102.15,False,
+2025-09-28,2025,Q3,Fall/Winter,39,Influencer,10464.63,False,
+2025-10-05,2025,Q4,Fall/Winter,40,TV,44059.53,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Paid Search,54326.06,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Paid Social,11331.53,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Display,14388.08,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Email,11257.86,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Direct Mail,11716.83,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Catalog,11176.9,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Outdoor Media,13175.68,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Radio,13583.97,False,
+2025-10-05,2025,Q4,Fall/Winter,40,Influencer,10244.67,False,
+2025-10-12,2025,Q4,Fall/Winter,41,TV,57932.33,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Paid Search,41734.07,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Paid Social,11630.54,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Display,11961.4,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Email,11471.79,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Direct Mail,13860.76,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Catalog,11086.74,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Outdoor Media,14374.64,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Radio,10264.78,False,
+2025-10-12,2025,Q4,Fall/Winter,41,Influencer,11562.04,False,
+2025-10-19,2025,Q4,Fall/Winter,42,TV,59204.83,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Paid Search,48532.94,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Paid Social,13221.92,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Display,12436.38,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Email,13971.96,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Direct Mail,13950.44,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Catalog,10652.94,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Outdoor Media,14664.37,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Radio,14918.67,False,
+2025-10-19,2025,Q4,Fall/Winter,42,Influencer,12153.95,False,
+2025-10-26,2025,Q4,Fall/Winter,43,TV,42814.39,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Paid Search,43385.28,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Paid Social,14918.77,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Display,12156.74,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Email,14265.46,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Direct Mail,10630.93,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Catalog,10867.78,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Outdoor Media,14072.55,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Radio,12841.21,False,
+2025-10-26,2025,Q4,Fall/Winter,43,Influencer,12547.03,False,
+2025-11-02,2025,Q4,Fall/Winter,44,TV,44759.25,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Paid Search,41305.08,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Paid Social,13737.02,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Display,12103.1,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Email,14025.27,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Direct Mail,13909.0,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Catalog,13307.01,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Outdoor Media,14149.13,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Radio,14727.03,False,
+2025-11-02,2025,Q4,Fall/Winter,44,Influencer,11795.17,False,
+2025-11-09,2025,Q4,Fall/Winter,45,TV,48627.73,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Paid Search,40958.94,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Paid Social,14848.92,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Display,13293.97,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Email,11101.68,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Direct Mail,12684.11,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Catalog,10293.82,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Outdoor Media,13113.52,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Radio,12372.04,False,
+2025-11-09,2025,Q4,Fall/Winter,45,Influencer,13753.4,False,
+2025-11-16,2025,Q4,Fall/Winter,46,TV,87245.53,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Paid Search,102382.1,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Paid Social,29926.47,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Display,28484.36,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Email,28083.45,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Direct Mail,21788.52,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Catalog,28667.93,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Outdoor Media,23450.98,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Radio,23239.77,True,Black Friday
+2025-11-16,2025,Q4,Fall/Winter,46,Influencer,24336.46,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,TV,83066.9,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Paid Search,116095.32,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Paid Social,26512.15,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Display,26142.38,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Email,24831.73,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Direct Mail,20285.0,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Catalog,26828.48,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Outdoor Media,28299.16,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Radio,22112.72,True,Black Friday
+2025-11-23,2025,Q4,Fall/Winter,47,Influencer,23292.73,True,Black Friday
+2025-11-30,2025,Q4,Fall/Winter,48,TV,40520.28,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Paid Search,48692.56,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Paid Social,10816.11,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Display,11250.05,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Email,11625.44,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Direct Mail,14077.66,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Catalog,12702.67,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Outdoor Media,10089.27,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Radio,14831.05,False,
+2025-11-30,2025,Q4,Fall/Winter,48,Influencer,11801.09,False,
+2025-12-07,2025,Q4,Fall/Winter,49,TV,47312.99,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Paid Search,42779.58,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Paid Social,11338.39,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Display,13312.09,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Email,10615.46,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Direct Mail,14185.51,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Catalog,11389.16,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Outdoor Media,13859.71,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Radio,14351.98,False,
+2025-12-07,2025,Q4,Fall/Winter,49,Influencer,14326.78,False,
+2025-12-14,2025,Q4,Fall/Winter,50,TV,41005.67,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Paid Search,42483.64,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Paid Social,11112.67,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Display,11511.67,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Email,12569.8,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Direct Mail,10086.17,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Catalog,11245.89,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Outdoor Media,14915.24,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Radio,12758.53,False,
+2025-12-14,2025,Q4,Fall/Winter,50,Influencer,11089.61,False,
+2025-12-21,2025,Q4,Fall/Winter,51,TV,102161.88,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Paid Search,104494.85,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Paid Social,22646.05,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Display,21403.65,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Email,27863.94,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Direct Mail,29239.69,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Catalog,22278.07,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Outdoor Media,25685.91,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Radio,24413.13,True,Holiday Clearance
+2025-12-21,2025,Q4,Fall/Winter,51,Influencer,25923.2,True,Holiday Clearance
